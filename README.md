@@ -8,27 +8,27 @@
 
 ## Developed & Deployed Projects :
 
-- <img align="left" alt="dalpat rathore" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/dalpat-rathore.ico" />[dalpat-rathore](https://github.com/DalpatRathore)
+- <img align="left" alt="dalpat rathore" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/dalpat-rathore.ico" />[dalpat-rathore](https://github.com/DalpatRathore)
 
-- <img align="left" alt="daily-docket" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/daily-docket.ico" />[https://daily-docket.web.app](https://daily-docket.web.app/)
+- <img align="left" alt="daily-docket" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/daily-docket.ico" />[https://daily-docket.web.app](https://daily-docket.web.app/)
 
-- <img align="left" alt="react-15-porjects" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/react-15-proj.ico" />[https://react-15-proj.web.app](https://react-15-proj.web.app/)
+- <img align="left" alt="react-15-porjects" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/react-15-proj.ico" />[https://react-15-proj.web.app](https://react-15-proj.web.app/)
 
-- <img align="left" alt="dogs-web" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/dogs-web.ico" />[https://dogs-fb.web.app](https://dogs-fb.web.app/)
+- <img align="left" alt="dogs-web" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/dogs-web.ico" />[https://dogs-fb.web.app](https://dogs-fb.web.app/)
 
 <br />
 
 ## Skills & Tools:
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/vscode.svg" />
-<img align="left" alt="HTML5" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/html.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/css.svg" />
-<img align="left" alt="Sass" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/sass.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/javascript.svg" />
-<img align="left" alt="React" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/react.svg" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/vscode.svg" />
+<img align="left" alt="HTML5" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/html.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/css.svg" />
+<img align="left" alt="Sass" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/sass.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/javascript.svg" />
+<img align="left" alt="React" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/react.svg" />
 
-<img align="left" alt="Git" width="30" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/git.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/github.svg" />
+<img align="left" alt="Git" width="30" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/git.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/github.svg" />
 <br />
 <br />
 
