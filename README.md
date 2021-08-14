@@ -28,6 +28,7 @@
 <img align="left" alt="React" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/react.svg" />
 <img align="left" alt="Git" width="30" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/git.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/github.svg" />
+<img align="left" alt="Firebase" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/firebase.svg" />
 <img align="left" alt="Figma" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/figma.svg" />
 <br />
 <br />
@@ -36,10 +37,9 @@
 
 - <img align="left" alt="dalpat rathore | Twitter" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/twitter.svg" />[https://twitter.com/erdalpatrathore](https://twitter.com/erdalpatrathore)
 
-
 - <img align="left" alt="dalpat rathore | LinkedIn" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/linkedin.svg" />[https://linkedin.com/in/dalpatrathore](https://linkedin.com/in/dalpatrathore)
 
 - <img align="left" alt="dalpat rathore | LinkedIn" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/facebook.svg" />[https://www.facebook.com/dalpat.rathore](https://www.facebook.com/dalpat.rathore)
 
-- <img align="left" alt="dalpat rathore | Gmail" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/gmail.svg" />[er.dalpat.rathore@gmail.com](https://accounts.google.com)
-<br />
+- <img align="left" alt="dalpat rathore | Yahoo" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/yahoo.svg" />[dalpat.rathore@yahoo.com](https://login.yahoo.com/)
+  <br />
