@@ -39,5 +39,7 @@
 
 - <img align="left" alt="dalpat rathore | LinkedIn" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/linkedin.svg" />[https://linkedin.com/in/dalpatrathore](https://linkedin.com/in/dalpatrathore)
 
-- <img align="left" alt="dalpat rathore | LinkedIn" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/facebook.svg" />[https://www.facebook.com/dalpat.rathore/)
+- <img align="left" alt="dalpat rathore | LinkedIn" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/facebook.svg" />[https://www.facebook.com/dalpat.rathore](https://www.facebook.com/dalpat.rathore)
+
+- <img align="left" alt="dalpat rathore | Gmail" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/gmail.svg" />[er.dalpat.rathore@gmail.com](https://accounts.google.com)
 <br />
