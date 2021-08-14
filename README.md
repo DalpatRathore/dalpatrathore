@@ -1,12 +1,12 @@
 # Hi there, I'm Dalpat Rathore
 
-**Self-taught Frontend Developer and Designer :** focuses on crafting clean and user friendly experiences with responsive web design without sacrificing accessibility, performance and creativity.
+**Frontend Developer & Designer :** focuses on crafting clean and user-friendly experiences with responsive web design without sacrificing accessibility, performance, and creativity.
 
 **Believes In:** _Practice Brings Perfection._
 
 **Current Focus:** I’m developing, designing, learning, exploring and thinking about how to make things better.
 
-## Developed & Deployed Projects :
+## Projects Developed & Deployed:
 
 - <img align="left" alt="dalpat rathore" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/dalpat-rathore.ico" />[dalpat-rathore](https://github.com/DalpatRathore)
 
@@ -18,7 +18,7 @@
 
 <br />
 
-## Skills & Tools:
+## Skills & DevTools :
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/vscode.svg" />
 <img align="left" alt="HTML5" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/html.svg" />
@@ -26,16 +26,18 @@
 <img align="left" alt="Sass" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/sass.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/javascript.svg" />
 <img align="left" alt="React" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/react.svg" />
-
 <img align="left" alt="Git" width="30" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/git.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/github.svg" />
+<img align="left" alt="Figma" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/figma.svg" />
 <br />
 <br />
 
-## Connect With Me:
+## Connect With Me :
 
-- <img align="left" alt="dalpat rathore | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[https://twitter.com/erdalpatrathore](https://twitter.com/erdalpatrathore)
+- <img align="left" alt="dalpat rathore | Twitter" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/twitter.svg" />[https://twitter.com/erdalpatrathore](https://twitter.com/erdalpatrathore)
 
-- <img align="left" alt="dalpat rathore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[https://linkedin.com/in/dalpatrathore](https://linkedin.com/in/dalpatrathore)
 
+- <img align="left" alt="dalpat rathore | LinkedIn" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/linkedin.svg" />[https://linkedin.com/in/dalpatrathore](https://linkedin.com/in/dalpatrathore)
+
+- <img align="left" alt="dalpat rathore | LinkedIn" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/facebook.svg" />[https://www.facebook.com/dalpat.rathore/)
 <br />
