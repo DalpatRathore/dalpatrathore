@@ -8,7 +8,7 @@
 
 ## Projects Developed & Deployed:
 
-- <img align="left" alt="dalpat rathore" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/dalpat-rathore.ico" />[https://dalpat-rathore.web.app/](https://dalpat-rathore.web.app/)
+- <img align="left" alt="dalpat rathore" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/dalpat-rathore.ico" />[https://dalpat-rathore.web.app](https://dalpat-rathore.web.app/)
 
 - <img align="left" alt="daily-docket" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/daily-docket.ico" />[https://daily-docket.web.app](https://daily-docket.web.app/)
 
