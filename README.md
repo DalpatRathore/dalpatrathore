@@ -8,17 +8,17 @@
 
 ## Projects Developed & Deployed:
 
-- <img align="left" alt="dalpat rathore" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/dalpat-rathore.ico" />[https://dalpat-rathore.web.app](https://dalpat-rathore.web.app/)
+- <img align="left" alt="dalpat rathore" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/dalpat-rathore.ico" />[My Portfolio App](https://dalpat-rathore.web.app/)
 
-- <img align="left" alt="daily-docket" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/daily-docket.ico" />[https://daily-docket.web.app](https://daily-docket.web.app/)
+- <img align="left" alt="daily-docket" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/daily-docket.ico" />[Daily Docket - Todolist](https://daily-docket.web.app/)
 
-- <img align="left" alt="react-15-porjects" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/react-15-proj.ico" />[https://react-15-proj.web.app](https://react-15-proj.web.app/)
+- <img align="left" alt="react-15-porjects" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/react-15-proj.ico" />[React Beginner 15 Projects](https://react-15-proj.web.app/)
 
-- <img align="left" alt="dogs-web" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/dogs-web.ico" />[https://dogs-fb.web.app](https://dogs-fb.web.app/)
+- <img align="left" alt="dogs-web" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/dogs-web.ico" />[Dogs-web](https://dogs-fb.web.app/)
 
-- <img align="left" alt="Google-Clone" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/google-clone.png" />[https://cloneapp111.web.app](https://cloneapp111.web.app/)
+- <img align="left" alt="Google-Clone" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/google-clone.png" />[Google Clone](https://cloneapp111.web.app/)
 
-- <img align="left" alt="Covid-19" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/covid-19.ico" />[https://covid19-track-1.web.app](https://covid19-track-1.web.app/)
+- <img align="left" alt="Covid-19" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/covid-19.ico" />[Covid-19 Tracker](https://covid19-track-1.web.app/)
 
 <br />
 
