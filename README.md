@@ -46,7 +46,3 @@
 - <img align="center" alt="dalpat rathore | LinkedIn" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/facebook.svg" /> [@dalpat.rathore](https://www.facebook.com/dalpat.rathore)
 
 - <img align="center" alt="dalpat rathore | Gmail" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/gmail.svg" /> ingenuitybrain@gmail.com
-
-  <br />
-
-  <br />
