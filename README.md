@@ -16,6 +16,10 @@
 
 - <img align="left" alt="dogs-web" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/dogs-web.ico" />[https://dogs-fb.web.app](https://dogs-fb.web.app/)
 
+- <img align="left" alt="Covid-19" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/covid-19.ico" />[https://covid19-track-1.web.app](https://covid19-track-1.web.app/)
+
+- <img align="left" alt="Google-Clone" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/google-clone.png" />[https://cloneapp111.web.app](https://cloneapp111.web.app/)
+
 <br />
 
 ## Skills & DevTools :
@@ -41,5 +45,6 @@
 
 - <img align="center" alt="dalpat rathore | LinkedIn" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/facebook.svg" /> [https://www.facebook.com/dalpat.rathore](https://www.facebook.com/dalpat.rathore)
 
-- <img align="center" alt="dalpat rathore | Yahoo" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/yahoo.svg" /> dalpat.rathore@yahoo.com
+- <img align="left" alt="dalpat rathore | Gmail" width="22px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/gmail.svg" /> ingenuitybrain@gmail.com
+
   <br />
