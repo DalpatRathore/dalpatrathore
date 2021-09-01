@@ -36,6 +36,13 @@
 <img align="left" alt="Figma" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/figma.svg" />
 <br />
 <br />
+<br />
+
+## My GitHub Stats :
+
+![Dalpat Rathore's GitHub stats](https://github-readme-stats.vercel.app/api?username=DalpatRathore&theme=algolia&show_icons=true)
+<br />
+<br />
 
 ## Connect With Me :
 
