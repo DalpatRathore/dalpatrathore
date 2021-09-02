@@ -40,7 +40,7 @@
 
 ## My GitHub Stats :
 
-![Dalpat Rathore's GitHub stats](https://github-readme-stats.vercel.app/api?username=DalpatRathore&theme=algolia&show_icons=true)
+![Dalpat Rathore's GitHub stats](https://github-readme-stats.vercel.app/api?username=DalpatRathore&theme=algolia&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,0F2027,03071e&text_color=FFF)
 <br />
 <br />
 
