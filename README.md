@@ -1,5 +1,6 @@
 # Hi there, I'm Dalpat Rathore
 
+<img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/img/heroImg.png">
 **Frontend Developer & Designer :** focuses on crafting clean and user-friendly experiences with responsive web design without sacrificing accessibility, performance, and creativity.
 
 **Believes In:** _Practice Brings Perfection._
