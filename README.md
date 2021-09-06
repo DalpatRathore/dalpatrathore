@@ -38,13 +38,11 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DalpatRathore&layout=compact&langs_count=10)
-<br />
-<br />
-
 ## My GitHub Stats :
 
 ![Dalpat Rathore's GitHub stats](https://github-readme-stats.vercel.app/api?username=DalpatRathore&count_private=true&theme=algolia&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,0F2027,03071e&text_color=FFF)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DalpatRathore&layout=compact&langs_count=10)
 <br />
 <br />
 
