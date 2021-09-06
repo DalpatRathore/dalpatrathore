@@ -1,13 +1,14 @@
 # Hi there, I'm Dalpat Rathore
 
-<img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/img/heroImg.png">
-**Frontend Developer & Designer :** focuses on crafting clean and user-friendly experiences with responsive web design without sacrificing accessibility, performance, and creativity.
+<img align="center" alt="hero image" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/img/heroImg.png">
 
-**Believes In:** _Practice Brings Perfection._
+**`Frontend Developer & Designer:`** focuses on crafting clean and user-friendly experiences with responsive web design without sacrificing accessibility, performance, and creativity.
 
-**Current Focus:** I’m developing, designing, learning, exploring and thinking about how to make things better.
+**`Believes In:`** _Practice Brings Perfection._
 
-## Projects Developed & Deployed:
+**`Current Focus:`** I’m developing, designing, learning, exploring and thinking about how to make things better.
+
+## Projects Developed & Deployed :
 
 - <img align="left" alt="dalpat rathore" width="30px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/dalpat-rathore.ico" />[My Portfolio App](https://dalpat-rathore.web.app/)
 
@@ -51,7 +52,6 @@
 
 ![Dalpat Rathore's github activity graph](https://activity-graph.herokuapp.com/graph?username=DalpatRathore&theme=rogue&line=f4791f&point=461220)
 
-<br />
 <br />
 
 ## Connect With Me :
