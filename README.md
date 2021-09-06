@@ -38,9 +38,20 @@
 <br />
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DalpatRathore&layout=compact&langs_count=10)
+<br />
+<br />
+
 ## My GitHub Stats :
 
-![Dalpat Rathore's GitHub stats](https://github-readme-stats.vercel.app/api?username=DalpatRathore&theme=algolia&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,0F2027,03071e&text_color=FFF)
+![Dalpat Rathore's GitHub stats](https://github-readme-stats.vercel.app/api?username=DalpatRathore&count_private=true&theme=algolia&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,0F2027,03071e&text_color=FFF)
+<br />
+<br />
+
+## My GitHub Contribution Graph :
+
+![Dalpat Rathore's github activity graph](https://activity-graph.herokuapp.com/graph?username=DalpatRathore&theme=rogue&line=f4791f&point=461220)
+
 <br />
 <br />
 
