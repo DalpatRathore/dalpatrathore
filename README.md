@@ -1,4 +1,5 @@
-<h1><i>Hi there,  I'm Dalpat Rathore</i></h1>
+<h1><i>Hi there,  I'm </i> <img align="center" alt="hero image" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/name.svg"> </h1>
+<!-- <h1><i>Hi there,  I'm Dalpat Rathore</i></h1> -->
 
 I'm self-taught frontend developer & designer - focuses on crafting clean and user friendly experiences with responsive web design without sacrificing accessibility, performance and creativity.
 
@@ -105,7 +106,7 @@ I'm self-taught frontend developer & designer - focuses on crafting clean and us
    <td align='center' width="200" height="100">
        <img align="center" alt="React" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/react.svg" />
          </br>
-      <strong><i>REACT</i></strong>
+      <strong><i>REACT JS</i></strong>
     </td>
     <td align='center'width="200" height="100">
        <img align="center" alt="Git" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/git.svg" />
