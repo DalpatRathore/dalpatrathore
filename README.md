@@ -1,7 +1,7 @@
 <h1><i>Hi there,  I'm  <img align="center" alt="Dalpat Rathore" width="500" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/name.svg"> </i> </h1>
 <!-- <h1><i>Hi there,  I'm Dalpat Rathore</i></h1> -->
 
-I'm self-taught frontend developer & designer - focuses on crafting clean and user friendly experiences with responsive web design without sacrificing accessibility, performance and creativity.
+I'm a self-taught frontend developer & designer - focuses on crafting clean and user friendly experiences with responsive web design without sacrificing accessibility, performance and creativity.
 
 **`Believes In :`** <strong> <i> Practice Brings Perfection </i> </strong>
 
@@ -26,7 +26,7 @@ I'm self-taught frontend developer & designer - focuses on crafting clean and us
    </td>
       
    <td align='center' width="250" height="180">
-     <a href="https://daily-docket.web.app/">
+     <a href="https://dailydocket.web.app/">
         <img align="center" alt="daily-docket" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dailydocket.png" />
            <br>
            <br>
@@ -47,7 +47,7 @@ I'm self-taught frontend developer & designer - focuses on crafting clean and us
 <tr>
    <td align='center' width="250" height="180">
      <a href="https://dogs-fb.web.app/">
-       <img align="center" alt="dogs-web" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dogsweb.png" />
+       <img align="center" alt="dogs-web" width="100px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dogsweb.png" />
            <br>
            <br>
       <strong><i>Dogs-web</i></strong>
