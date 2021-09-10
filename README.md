@@ -21,7 +21,7 @@ n
           <img align="center" alt="dalpat rathore" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
            <br>
            <br>
-          <strong><i>My Portfolio App</i></strong>
+          <strong><i>My Portfolio</i></strong>
      </a>
    </td>
       
@@ -30,7 +30,7 @@ n
         <img align="center" alt="daily-docket" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dailydocket.png" />
            <br>
            <br>
-      <strong><i>Daily Docket - Todolist</i></strong>
+      <strong><i>Daily Docket</i></strong>
     </a>
    </td>
     
@@ -39,7 +39,7 @@ n
          <img align="center" alt="react-15-porjects" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/react15proj.png" />
            <br>
            <br>
-      <strong><i>React Beginner 15 Projects</i></strong>
+      <strong><i>React JS 15 Projects</i></strong>
     </a>
   </td>       
 </tr>
@@ -50,7 +50,7 @@ n
        <img align="center" alt="dogs-web" width="100px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dogsweb.png" />
            <br>
            <br>
-      <strong><i>Dogs-web</i></strong>
+      <strong><i>Dogs Web</i></strong>
     </a>
   </td>
     
