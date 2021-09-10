@@ -4,7 +4,7 @@
 I'm a self-taught frontend developer & designer - focuses on crafting clean and user friendly experiences with responsive web design without sacrificing accessibility, performance and creativity.
 
 **`Believes In :`** <strong> <i> Practice Brings Perfection </i> </strong>
-
+n
 **`Current Focus :`** I’m developing, designing, learning, exploring and thinking about how to make things better.
 
 <img align="center" alt="hero image" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/heroImg0.webp">
@@ -17,7 +17,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
   <tr>
     <td align='center' width="250" height="180">
-      <a href="https://dalpat-rathore.web.app/">
+      <a href="https://dalpatrathore.netlify.app/">
           <img align="center" alt="dalpat rathore" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
            <br>
            <br>
@@ -35,7 +35,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
    </td>
     
    <td align='center' width="250" height="180">
-     <a href="https://react-15-proj.web.app/">
+     <a href="https://react15proj.web.app">
          <img align="center" alt="react-15-porjects" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/react15proj.png" />
            <br>
            <br>
@@ -46,7 +46,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
 <tr>
    <td align='center' width="250" height="180">
-     <a href="https://dogs-fb.web.app/">
+     <a href="https://dogsweb.netlify.app/">
        <img align="center" alt="dogs-web" width="100px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dogsweb.png" />
            <br>
            <br>
@@ -64,7 +64,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
  </td>
     
  <td align='center' width="250" height="180">
-      <a href="https://covid19-track-1.web.app/">
+      <a href="https://covid19tracks.web.app/">
         <img align="center" alt="Covid-19" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/covid19.png" />
            <br>
            <br>
