@@ -101,13 +101,13 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
          </br>
       <strong><i>JAVASCRIPT</i></strong>
     </td>
-</tr>
-<tr>
-   <td align='center' width="200" height="100">
+     <td align='center' width="200" height="100">
        <img align="center" alt="React" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/react.svg" />
          </br>
       <strong><i>REACT JS</i></strong>
     </td>
+</tr>
+<tr>
     <td align='center' width="200" height="100">
        <img align="center" alt="React" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nodejs.svg" />
          </br>
