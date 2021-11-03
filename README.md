@@ -82,22 +82,22 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 <table>
 <tr>
     <td align='center' width="200" height="100">
-       <img align='center' alt="HTML5" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/html.svg" />
+       <img align='center' alt="HTML5" width="55px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/html.svg" />
          </br>
       <strong><i>HTML 5</i></strong>
     </td>
     <td align='center'width="200" height="100">
-       <img align='center' alt="CSS3" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/css.svg" />
+       <img align='center' alt="CSS3" width="55px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/css.svg" />
          </br>
       <strong><i>CSS</i></strong>
     </td>
     <td align='center' width="200" height="100">
-       <img align="center" alt="Sass" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/sass.svg" />
+       <img align="center" alt="Sass" width="55px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/sass.svg" />
          </br>
       <strong><i>SASS</i></strong>
     </td>
     <td align='center' width="200" height="100">
-       <img align="center" alt="JavaScript" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/javascript.svg" />
+       <img align="center" alt="JavaScript" width="55px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/javascript.svg" />
          </br>
       <strong><i>JAVASCRIPT</i></strong>
     </td>
@@ -105,22 +105,22 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </tr>
 <tr>
      <td align='center' width="200" height="100">
-       <img align="center" alt="React" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/react.svg" />
+       <img align="center" alt="React" width="55px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/react.svg" />
          </br>
       <strong><i>REACT JS</i></strong>
     </td>
     <td align='center' width="200" height="100">
-       <img align="center" alt="React" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/node.svg" />
+       <img align="center" alt="React" width="90px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/node.svg" />
          </br>
       <strong><i>NODE JS</i></strong>
     </td>
     <td align='center'width="200" height="100">
-       <img align="center" alt="Git" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/git.svg" />
+       <img align="center" alt="Git" width="60px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/git.svg" />
          </br>
       <strong><i>GIT</i></strong>
     </td>
     <td align='center' width="200" height="100">
-       <img align="center" alt="GitHub" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/github.svg" />
+       <img align="center" alt="GitHub" width="55px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/github.svg" />
          </br>
      <strong><i>GITHUB</i></strong>
     </td> 
@@ -128,17 +128,17 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </tr>
 <tr>
      <td align='center' width="200" height="100">
-       <img align="center" alt="Firebase" width="35px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/firebase.svg" />
+       <img align="center" alt="Firebase" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/firebase.svg" />
          </br>
      <strong><i>FIREBASE</i></strong>
     </td>    
     <td align='center' width="200" height="100">
-       <img align="center" alt="Visual Studio Code" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/vscode.svg" />
+       <img align="center" alt="Visual Studio Code" width="55px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/vscode.svg" />
          </br>
       <strong><i>VS CODE</i></strong>
     </td>
     <td align='center' width="200" height="100">
-       <img align="center" alt="Figma" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/figma.svg" />
+       <img align="center" alt="Figma" width="55px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/figma.svg" />
          </br>
       <strong><i>FIGMA</i></strong>
     </td>
