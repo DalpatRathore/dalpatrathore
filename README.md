@@ -159,14 +159,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
          </br>
       <strong><i>NEXT JS</i></strong>
     </td>
-</tr>
-<tr>
-    <td align='center' width="200" height="100">
-       <img align="center" alt="MongoDB" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb-1.svg" />
-         </br>
-      <strong><i>MONGO DB</i></strong>
-    </td>
-    <td align='center' width="200" height="100">
+     <td align='center' width="200" height="100">
        <img align="center" alt="MongoDB" width="65px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb.svg" />
          </br>
       <strong><i>MONGO DB</i></strong>
