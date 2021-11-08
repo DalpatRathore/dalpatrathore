@@ -143,6 +143,23 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
       <strong><i>FIGMA</i></strong>
     </td>
 </tr>
+<tr>
+     <td align='center' width="200" height="100">
+       <img align="center" alt="Express" width="35px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/express.svg" />
+         </br>
+     <strong><i>EXPRESS</i></strong>
+    </td>    
+    <td align='center' width="200" height="100">
+       <img align="center" alt="Jest" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/jest.svg" />
+         </br>
+      <strong><i>JEST</i></strong>
+    </td>
+    <td align='center' width="200" height="100">
+       <img align="center" alt="Next JS" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nextjs.svg" />
+         </br>
+      <strong><i>NEXT JS</i></strong>
+    </td>
+</tr>
 </table>
 
 <br>
