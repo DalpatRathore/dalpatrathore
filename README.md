@@ -81,22 +81,22 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
 <table>
 <tr>
-    <td align='center' width="180" height="100">
+    <td align='center' width="190" height="100">
        <img align='center' alt="HTML5" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/html.svg" />
          </br>
       <strong><i>HTML 5</i></strong>
     </td>
-    <td align='center'width="180" height="100">
+    <td align='center'width="190" height="100">
        <img align='center' alt="CSS3" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/css.svg" />
          </br>
       <strong><i>CSS</i></strong>
     </td>
-    <td align='center' width="180" height="100">
+    <td align='center' width="190" height="100">
        <img align="center" alt="Sass" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/sass.svg" />
          </br>
       <strong><i>SASS</i></strong>
     </td>
-    <td align='center' width="180" height="100">
+    <td align='center' width="190" height="100">
        <img align="center" alt="Figma" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/figma.svg" />
          </br>
       <strong><i>FIGMA</i></strong>
@@ -104,25 +104,25 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </tr>
 <tr>
     
-   <td align='center' width="180" height="100">
+   <td align='center' width="190" height="100">
        <img align="center" alt="JavaScript" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/javascript.svg" />
          </br>
       <strong><i>JAVASCRIPT</i></strong>
     </td>
 
-   <td align='center' width="180" height="100">
+   <td align='center' width="190" height="100">
        <img align="center" alt="React" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/react.svg" />
          </br>
       <strong><i>REACT JS</i></strong>
     </td>
 
-   <td align='center' width="180" height="100">
+   <td align='center' width="190" height="100">
        <img align="center" alt="Next JS" width="65px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nextjs.svg" />
          </br>
       <strong><i>NEXT JS</i></strong>
     </td>
 
-   <td align='center' width="180" height="100">
+   <td align='center' width="190" height="100">
        <img align="center" alt="Jest" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/jest.svg" />
          </br>
       <strong><i>JEST</i></strong>
@@ -130,22 +130,22 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
 </tr>
 <tr>
-      <td align='center' width="180" height="100">
+      <td align='center' width="190" height="100">
        <img align="center" alt="React" width="80px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/node.svg" />
          </br>
       <strong><i>NODE JS</i></strong>
     </td>
-     <td align='center' width="180" height="100">
+     <td align='center' width="190" height="100">
        <img align="center" alt="Express" width="95px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/express.svg" />
          </br>
      <strong><i>EXPRESS</i></strong>
     </td>     
-     <td align='center' width="180" height="100">
+     <td align='center' width="190" height="100">
        <img align="center" alt="MongoDB" width="150px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb.svg" />
          </br>
       <strong><i>MONGO DB</i></strong>
     </td>   
-    <td align='center' width="180" height="100">
+    <td align='center' width="190" height="100">
        <img align="center" alt="Firebase" width="35px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/firebase.svg" />
          </br>
      <strong><i>FIREBASE</i></strong>
@@ -154,18 +154,18 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </tr>
 <tr>
      
-   <td align='center' width="180" height="100">
+   <td align='center' width="190" height="100">
        <img align="center" alt="Visual Studio Code" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/vscode.svg" />
          </br>
       <strong><i>VS CODE</i></strong>
     </td>
 
-   <td align='center'width="180" height="100">
+   <td align='center'width="190" height="100">
        <img align="center" alt="Git" width="50px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/git.svg" />
          </br>
       <strong><i>GIT</i></strong>
     </td>
-    <td align='center' width="180" height="100">
+    <td align='center' width="190" height="100">
        <img align="center" alt="GitHub" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/github.svg" />
          </br>
      <strong><i>GITHUB</i></strong>
