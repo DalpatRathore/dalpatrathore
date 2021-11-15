@@ -117,31 +117,31 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
     </td>
 
    <td align='center' width="200" height="120">
-       <img align="center" alt="Next JS" width="65px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nextjs-icon.svg" />
+       <img align="center" alt="Next JS" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nextjs-icon.svg" />
          </br>
       <strong><i>NEXT JS</i></strong>
     </td>
 
    <td align='center' width="200" height="120">
-       <img align="center" alt="Thunder Client" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/thunderclient-icon.svg" />
+       <img align="center" alt="Thunder Client" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/thunderclient-icon.svg" />
          </br>
-      <strong><i>Thunder Client</i></strong>
+      <strong><i>THUNDER CLIENT</i></strong>
     </td>
 
 </tr>
 <tr>
       <td align='center' width="200" height="120">
-       <img align="center" alt="React" width="80px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nodejs-icon.svg" />
+       <img align="center" alt="React" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nodejs-icon.svg" />
          </br>
       <strong><i>NODE JS</i></strong>
     </td>
      <td align='center' width="200" height="120">
-       <img align="center" alt="Express" width="95px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/express-icon.svg" />
+       <img align="center" alt="Express" width="65px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/express-icon.svg" />
          </br>
      <strong><i>EXPRESS</i></strong>
     </td>     
      <td align='center' width="200" height="120">
-       <img align="center" alt="MongoDB" width="100px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb-icon.svg" />
+       <img align="center" alt="MongoDB" width="55px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb-icon.svg" />
          </br>
       <strong><i>MONGO DB</i></strong>
     </td>   
