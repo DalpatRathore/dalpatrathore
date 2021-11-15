@@ -123,7 +123,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
     </td>
 
    <td align='center' width="200" height="120">
-       <img align="center" alt="Thunder Client" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/thunderclient-icon.png" />
+       <img align="center" alt="Thunder Client" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/thunderclient-icon.svg" />
          </br>
       <strong><i>Thunder Client</i></strong>
     </td>
@@ -141,7 +141,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
      <strong><i>EXPRESS</i></strong>
     </td>     
      <td align='center' width="200" height="120">
-       <img align="center" alt="MongoDB" width="150px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb-icon.svg" />
+       <img align="center" alt="MongoDB" width="100px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb-icon.svg" />
          </br>
       <strong><i>MONGO DB</i></strong>
     </td>   
@@ -196,8 +196,8 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
 <table>
 <tr>
-    <td align='center' width="55"> <a href="https://twitter.com/ingenuity_brain"><img align="center" alt="twitter" width="25px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/twitter.svg" /></a>  </td>
-   <td align='center' width="55"> <a href="https://linkedin.com/in/dalpatrathore"><img align="center" alt="linkedIn" width="25px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/linkedin.svg" /></a>  </td>
-   <td align='center' width="55"> <a href="https://www.facebook.com/dalpat.rathore"><img align="center" alt="facebook" width="25px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/facebook.svg" /></a>  </td>
+    <td align='center' width="55"> <a href="https://twitter.com/ingenuity_brain"><img align="center" alt="twitter" width="25px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/twitter-icon.svg" /></a>  </td>
+   <td align='center' width="55"> <a href="https://linkedin.com/in/dalpatrathore"><img align="center" alt="linkedIn" width="25px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/linkedin-icon.svg" /></a>  </td>
+   <td align='center' width="55"> <a href="https://www.facebook.com/dalpat.rathore"><img align="center" alt="facebook" width="25px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/facebook-icon.svg" /></a>  </td>
 </tr>
 </table>
