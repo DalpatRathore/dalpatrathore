@@ -82,22 +82,22 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 <table>
 <tr>
     <td align='center' width="200" height="120">
-       <img align='center' alt="HTML5" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/html.svg" />
+       <img align='center' alt="HTML5" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/html-icon.svg" />
          </br>
       <strong><i>HTML 5</i></strong>
     </td>
     <td align='center'width="200" height="120">
-       <img align='center' alt="CSS3" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/css.svg" />
+       <img align='center' alt="CSS3" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/css-icon.svg" />
          </br>
       <strong><i>CSS</i></strong>
     </td>
     <td align='center' width="200" height="120">
-       <img align="center" alt="Sass" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/sass.svg" />
+       <img align="center" alt="Sass" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/sass-icon.svg" />
          </br>
       <strong><i>SASS</i></strong>
     </td>
     <td align='center' width="200" height="120">
-       <img align="center" alt="Figma" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/figma.svg" />
+       <img align="center" alt="Figma" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/figma-icon.svg" />
          </br>
       <strong><i>FIGMA</i></strong>
     </td>
@@ -105,48 +105,48 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 <tr>
     
    <td align='center' width="200" height="120">
-       <img align="center" alt="JavaScript" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/javascript.svg" />
+       <img align="center" alt="JavaScript" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/javascript-icon.svg" />
          </br>
       <strong><i>JAVASCRIPT</i></strong>
     </td>
 
    <td align='center' width="200" height="120">
-       <img align="center" alt="React" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/react.svg" />
+       <img align="center" alt="React" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/reactjs-icon.svg" />
          </br>
       <strong><i>REACT JS</i></strong>
     </td>
 
    <td align='center' width="200" height="120">
-       <img align="center" alt="Next JS" width="65px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nextjs.svg" />
+       <img align="center" alt="Next JS" width="65px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nextjs-icon.svg" />
          </br>
       <strong><i>NEXT JS</i></strong>
     </td>
 
    <td align='center' width="200" height="120">
-       <img align="center" alt="Jest" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/jest.svg" />
+       <img align="center" alt="Thunder Client" width="40px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/thunderclient-icon.png" />
          </br>
-      <strong><i>JEST</i></strong>
+      <strong><i>Thunder Client</i></strong>
     </td>
 
 </tr>
 <tr>
       <td align='center' width="200" height="120">
-       <img align="center" alt="React" width="80px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/node.svg" />
+       <img align="center" alt="React" width="80px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nodejs-icon.svg" />
          </br>
       <strong><i>NODE JS</i></strong>
     </td>
      <td align='center' width="200" height="120">
-       <img align="center" alt="Express" width="95px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/express.svg" />
+       <img align="center" alt="Express" width="95px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/express-icon.svg" />
          </br>
      <strong><i>EXPRESS</i></strong>
     </td>     
      <td align='center' width="200" height="120">
-       <img align="center" alt="MongoDB" width="150px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb.svg" />
+       <img align="center" alt="MongoDB" width="150px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb-icon.svg" />
          </br>
       <strong><i>MONGO DB</i></strong>
     </td>   
     <td align='center' width="200" height="120">
-       <img align="center" alt="Firebase" width="35px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/firebase.svg" />
+       <img align="center" alt="Firebase" width="35px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/firebase-icon.svg" />
          </br>
      <strong><i>FIREBASE</i></strong>
     </td>
@@ -155,18 +155,18 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 <tr>
      
    <td align='center' width="200" height="120">
-       <img align="center" alt="Visual Studio Code" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/vscode.svg" />
+       <img align="center" alt="Visual Studio Code" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/vscode-icon.svg" />
          </br>
       <strong><i>VS CODE</i></strong>
     </td>
 
    <td align='center'width="200" height="120">
-       <img align="center" alt="Git" width="50px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/git.svg" />
+       <img align="center" alt="Git" width="50px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/git-icon.svg" />
          </br>
       <strong><i>GIT</i></strong>
     </td>
     <td align='center' width="200" height="120">
-       <img align="center" alt="GitHub" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/github.svg" />
+       <img align="center" alt="GitHub" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/github-icon.svg" />
          </br>
      <strong><i>GITHUB</i></strong>
     </td>
