@@ -141,7 +141,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
      <strong><i>EXPRESS</i></strong>
     </td>     
      <td align='center' width="200" height="120">
-       <img align="center" alt="MongoDB" width="55px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb-icon.svg" />
+       <img align="center" alt="MongoDB" width="25px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb-icon.svg" />
          </br>
       <strong><i>MONGO DB</i></strong>
     </td>   
