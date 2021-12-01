@@ -27,7 +27,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
       
    <td align='center' width="250" height="180">
      <a href="https://dailydocket.web.app/">
-        <img align="center" alt="daily-docket" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dailydocket.png" />
+        <img align="center" alt="daily docket" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dailydocket.png" />
            <br>
            <br>
       <strong><i>Daily Docket</i></strong>
@@ -36,7 +36,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
     
    <td align='center' width="250" height="180">
      <a href="https://react15proj.web.app">
-         <img align="center" alt="react-15-porjects" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/react15proj.png" />
+         <img align="center" alt="react 15 projects" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/react15proj.png" />
            <br>
            <br>
       <strong><i>React JS 15 Projects</i></strong>
@@ -47,7 +47,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 <tr>
    <td align='center' width="250" height="180">
      <a href="https://dogsdetails.web.app/">
-       <img align="center" alt="dogs-web" width="100px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dogsweb.png" />
+       <img align="center" alt="dogs web" width="100px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dogsweb.png" />
            <br>
            <br>
       <strong><i>Dogs Web</i></strong>
@@ -56,7 +56,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
     
  <td align='center' width="250" height="180">
        <a href="https://cloneapp111.web.app/">
-        <img align="center" alt="Google-Clone" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/googleclone.png" />
+        <img align="center" alt="Google Clone" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/googleclone.png" />
            </br>
            </br>
        <strong><i>Google Clone</i></strong>
@@ -65,7 +65,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
     
  <td align='center' width="250" height="180">
       <a href="https://covid19tracks.web.app/">
-        <img align="center" alt="Covid-19" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/covid19.png" />
+        <img align="center" alt="Covid-19 Tracker" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/covid19.png" />
            <br>
            <br>
         <strong><i>Covid-19 Tracker</i></strong>
@@ -82,12 +82,12 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 <table>
 <tr>
     <td align='center' width="200" height="120">
-       <img align='center' alt="HTML5" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/html-icon.svg" />
+       <img align='center' alt="HTML 5" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/html-icon.svg" />
          </br>
       <strong><i>HTML 5</i></strong>
     </td>
     <td align='center'width="200" height="120">
-       <img align='center' alt="CSS3" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/css-icon.svg" />
+       <img align='center' alt="CSS 3" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/css-icon.svg" />
          </br>
       <strong><i>CSS</i></strong>
     </td>
@@ -111,7 +111,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
     </td>
 
    <td align='center' width="200" height="120">
-       <img align="center" alt="React" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/reactjs-icon.svg" />
+       <img align="center" alt="React JS" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/reactjs-icon.svg" />
          </br>
       <strong><i>REACT JS</i></strong>
     </td>
@@ -123,25 +123,25 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
     </td>
 
    <td align='center' width="200" height="120">
-       <img align="center" alt="Thunder Client" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/thunderclient-icon.svg" />
+       <img align="center" alt="Postman" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/postman-icon.svg" />
          </br>
-      <strong><i>THUNDER CLIENT</i></strong>
+      <strong><i>POSTMAN</i></strong>
     </td>
 
 </tr>
 <tr>
       <td align='center' width="200" height="120">
-       <img align="center" alt="React" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nodejs-icon.svg" />
+       <img align="center" alt="Node JS" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nodejs-icon.svg" />
          </br>
       <strong><i>NODE JS</i></strong>
     </td>
      <td align='center' width="200" height="120">
-       <img align="center" alt="Express" width="65px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/express-icon.svg" />
+       <img align="center" alt="Express JS" width="65px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/express-icon.svg" />
          </br>
      <strong><i>EXPRESS</i></strong>
     </td>     
      <td align='center' width="200" height="120">
-       <img align="center" alt="MongoDB" width="25px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb-icon.svg" />
+       <img align="center" alt="Mongo DB" width="25px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb-icon.svg" />
          </br>
       <strong><i>MONGO DB</i></strong>
     </td>   
