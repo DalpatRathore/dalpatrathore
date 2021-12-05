@@ -9,6 +9,8 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
 <img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/heroImg.webp">
 
+<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-1.svg">
+
 <br>
 
 <h2><i>Projects Developed & Deployed :</i></h2>
@@ -76,7 +78,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </table>
 
 <br>
-
+<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-2.svg">
 <h2><i>Skills & DevTools :</i></h2>
 
 <table>
@@ -174,6 +176,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </table>
 
 <br>
+<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-3.svg">
 
 <h2><i>My GitHub Stats :</i></h2>
 
@@ -185,12 +188,15 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </table>
 
 <br>
+<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-4.svg">
 
 <h2><i>My GitHub Contribution Graph :</i></h2>
 
 ![Dalpat Rathore's github activity graph](https://mygithubgraph.herokuapp.com/graph?username=DalpatRathore&theme=rogue&line=f4791f&point=461220)
 
 <br>
+
+<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-1.svg">
 
 <h2><i>Connect With Me :</i></h2>
 
@@ -201,3 +207,4 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
    <td align='center' width="55"> <a href="https://www.facebook.com/dalpat.rathore"><img align="center" alt="facebook" width="25px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/facebook-icon.svg" /></a>  </td>
 </tr>
 </table>
+<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-1.svg">
