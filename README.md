@@ -7,7 +7,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
 **`Current Focus :`** I’m developing, designing, learning, exploring and thinking about how to make things better.
 
-<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/heroImg.gif">
+<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/heroImg.webp">
 
 <br>
 
