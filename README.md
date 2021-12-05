@@ -8,9 +8,8 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 **`Current Focus :`** I’m developing, designing, learning, exploring and thinking about how to make things better.
 
 <img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/heroImg.webp">
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dalpatrathore&color=001d3d&style=plastic&label=Github+Profile+Views" alt="Dalpat Rathore" /> </p>
 <img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-1.svg">
-
 <br>
 
 <h2><i>Projects Developed & Deployed :</i></h2>
@@ -78,8 +77,8 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </table>
 
 <br>
-<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-2.svg">
-<h2><i>Skills & DevTools :</i></h2>
+<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-4.svg">
+<h2><i>Skills & DevTools Stack :</i></h2>
 
 <table>
 <tr>
@@ -178,25 +177,29 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 <br>
 <img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-3.svg">
 
-<h2><i>My GitHub Stats :</i></h2>
+<h2><i>GitHub Stats :</i></h2>
 
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=DalpatRathore&count_private=true&theme=algolia&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,0F2027,03071e&text_color=FFF" alt ="Dalpat Rathore's GitHub stats"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalpatRathore&layout=compact&langs_count=10" alt ="Top Languages"/></td>
   </tr>
+   <tr>
+    <td align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=dalpatrathore&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=03071E&sideNums=1E325C&dates=0B17EE" alt ="Dalpat Rathore's GitHub stats"/>  </td>
+    
+  </tr>
 </table>
 
 <br>
 <img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-4.svg">
 
-<h2><i>My GitHub Contribution Graph :</i></h2>
+<h2><i>GitHub Contribution Graph :</i></h2>
 
 ![Dalpat Rathore's github activity graph](https://mygithubgraph.herokuapp.com/graph?username=DalpatRathore&theme=rogue&line=f4791f&point=461220)
 
 <br>
 
-<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-1.svg">
+<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-3.svg">
 
 <h2><i>Connect With Me :</i></h2>
 
@@ -207,4 +210,4 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
    <td align='center' width="55"> <a href="https://www.facebook.com/dalpat.rathore"><img align="center" alt="facebook" width="25px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/facebook-icon.svg" /></a>  </td>
 </tr>
 </table>
-<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-1.svg">
+<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/blueYellowLine-2.svg">
