@@ -71,7 +71,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </table>
 
 <br>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-4.svg">
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-3.svg">
 <h2><i>Skills & DevTools Stack :</i></h2>
 
 <table>
@@ -170,7 +170,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </table>
 
 <br>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-4.svg">
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-3.svg">
 
 <h2><i>GitHub Contribution Graph :</i></h2>
 
@@ -185,7 +185,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 <table>
 <tr>
   <td>
-    ├─◈ <strong>Linked In</strong>: <a href="https://linkedin.com/in/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
+    ├─◈ <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
   </td>
    </tr> <tr>
   <td>
@@ -210,3 +210,5 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
    
 </table>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+
