@@ -174,7 +174,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
 <h2><i>GitHub Contribution Graph :</i></h2>
 
-![Dalpat Rathore's github activity graph](https://mygithubgraph.herokuapp.com/graph?username=DalpatRathore&theme=rogue&line=f4791f&point=461220)
+![Dalpat Rathore's github activity graph](https://activity-graph.herokuapp.com/graph?username=DalpatRathore&theme=rogue&line=f4791f&point=461220)
 
 <br>
 
