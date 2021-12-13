@@ -17,54 +17,86 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 <table>
 
   <tr>
-    <td align='center' width="200" height="100">
+    <td align='center'>
       <a href="https://dalpatrathoredev.web.app">
           <img align="center" alt="dalpat rathore" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
            <br>
           <strong><i>My Portfolio</i></strong>
      </a>
+      <br>
+      <br>
+     <a href="https://github.com/dalpatrathore/dalpatrathore">
+        <img align="center" alt="dalpat rathore" src="https://github-readme-stats.vercel.app/api/pin/?username=dalpatrathore&repo=dalpatrathore&bg_color=0,14213d,ca6702&title_color=afbecd&text_color=abcdef&border_radius=10" />   
+    </a>
    </td>
       
-   <td align='center' width="200" height="100">
+   <td align='center'>
      <a href="https://dailydocket.web.app/">
         <img align="center" alt="daily docket" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dailydocket.png" />
            <br>
         <strong><i>Daily Docket</i></strong>
     </a>
+     <br>
+     <br>
+     <a href="https://github.com/dalpatrathore/daily-docket">
+        <img align="center" alt="daily docket" src="https://github-readme-stats.vercel.app/api/pin/?username=dalpatrathore&repo=daily-docket&bg_color=0,001427,132a13,001427&title_color=afbdce&text_color=abcdef&border_radius=10" />   
+    </a>
    </td>
-    
-   <td align='center' width="200" height="100">
+  </tr>
+ 
+  <tr>
+   <td align='center'>
      <a href="https://react15proj.web.app">
          <img align="center" alt="react 15 projects" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/react15proj.png" />
          <br>
       <strong><i>React JS 15 Projects</i></strong>
     </a>
+    <br>
+    <br>
+     <a href="https://github.com/dalpatrathore/react-15-proj...">
+        <img align="center" alt="react practice project" src="https://github-readme-stats.vercel.app/api/pin/?username=dalpatrathore&repo=react-15-proj...&bg_color=0,001427,132a13,001427&title_color=afbdce&text_color=abcdef&border_radius=10" />   
+    </a>
   </td>       
-</tr>
 
-<tr>
-   <td align='center' width="200" height="100">
+   <td align='center' >
      <a href="https://dogsdetails.web.app/">
-       <img align="center" alt="dogs web" width="100px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dogsweb.png" />
+       <img align="center" alt="dogs web" width="85px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dogsweb.png" />
        <br>
       <strong><i>Dogs Web</i></strong>
     </a>
+    <br>
+    <br>
+     <a href="https://github.com/dalpatrathore/dogs-web">
+        <img align="center" alt="dogs web" src="https://github-readme-stats.vercel.app/api/pin/?username=dalpatrathore&repo=dogs-web&bg_color=0,001427,132a13,001427&title_color=afbdce&text_color=abcdef&border_radius=10" />   
+    </a>
   </td>
-    
- <td align='center' width="200" height="100">
+ </tr>
+
+ <tr>  
+ <td align='center'>
        <a href="https://cloneapp111.web.app/">
         <img align="center" alt="Google Clone" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/googleclone.png" />
          </br>
        <strong><i>Google Clone</i></strong>
     </a>
+    <br>
+    <br>
+     <a href="https://github.com/dalpatrathore/google-clone-app">
+        <img align="center" alt="google-clone-app" src="https://github-readme-stats.vercel.app/api/pin/?username=dalpatrathore&repo=google-clone-app&bg_color=0,001427,132a13,001427&title_color=afbdce&text_color=abcdef&border_radius=10" />   
+    </a>
  </td>
     
- <td align='center' width="200" height="100">
+ <td align='center' >
       <a href="https://covid19tracks.web.app/">
         <img align="center" alt="Covid-19 Tracker" width="75px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/covid19.png" />
         <br>
         <strong><i>Covid-19 Tracker</i></strong>
       </a>
+    <br>
+    <br>
+     <a href="https://github.com/dalpatrathore/covid-19-tracker">
+        <img align="center" alt="covid-19-tracker" src="https://github-readme-stats.vercel.app/api/pin/?username=dalpatrathore&repo=covid-19-tracker&bg_color=0,001427,132a13,001427&title_color=afbdce&text_color=abcdef&border_radius=10" />   
+    </a>
     </td> 
  </tr>
 
