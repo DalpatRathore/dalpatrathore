@@ -25,7 +25,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
      </a>
       <br>
       <br>
-     <a href="https://github.com/dalpatrathore/dalpatrathore">
+     <a href="https://dalpatrathoredev.web.app/">
         <img align="center" alt="dalpat rathore" src="https://github-readme-stats.vercel.app/api/pin/?username=dalpatrathore&repo=dalpatrathore&bg_color=0,14213d,ca6702&title_color=afbecd&text_color=abcdef&border_radius=10" />   
     </a>
    </td>
