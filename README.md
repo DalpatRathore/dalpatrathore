@@ -14,7 +14,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
 <h2><i>Projects Developed & Deployed :</i></h2>
 
-<table>
+<table border="50">
   <tr>
     <td align='center'>
       <a href="https://dalpatrathoredev.web.app">
@@ -102,10 +102,10 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </table>
 
 <br>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-3.svg">
+
 <h2><i>Skills & DevTools Stack :</i></h2>
 
-<table>
+<table border="75">
 <tr>
     <td align='center' width="200" height="75">
        <img align='center' alt="HTML 5" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/html-icon.svg" />
@@ -183,42 +183,38 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
     </td>
  </tr>
 </table>
-
 <br>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-3.svg">
 
 <h2><i>GitHub Stats :</i></h2>
 
-<table>
+<table border="50">
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=DalpatRathore&count_private=true&theme=algolia&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,0F2027,03071e&text_color=FFF" alt ="Dalpat Rathore's GitHub stats"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalpatRathore&layout=compact&langs_count=10" alt ="Top Languages"/></td>
   </tr>
    <tr>
-    <td align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=dalpatrathore&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=03071E&sideNums=1E325C&dates=0B17EE" alt ="Dalpat Rathore's GitHub Streak Stats"/>  </td>
+    <td colspan="2" align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=dalpatrathore&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=03071E&sideNums=1E325C&dates=0B17EE" alt ="Dalpat Rathore's GitHub Streak Stats"/>  </td>
     
   </tr>
 </table>
-
 <br>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-3.svg">
+
 
 <h2><i>GitHub Contribution Graph :</i></h2>
 
 ![Dalpat Rathore's github activity graph](https://activity-graph.herokuapp.com/graph?username=DalpatRathore&theme=rogue&line=f4791f&point=461220)
-
-<br>
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-3.svg">
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 <h2><i>Connect With Me :</i></h2>
 
-<table>
+<table border="100">
 <tr>
   <td>
     ├─◈ <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
   </td>
-   </tr> <tr>
+  
+   </tr>
+  <tr>
   <td>
      ├─◈ <strong>Twitter</strong>: <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://img.shields.io/badge/@ingenuity_brain-1DA1F2?style=plastic&logo=twitter&logoColor=white"></a> 
     
@@ -240,6 +236,4 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
    </tr>
    
 </table>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.s
