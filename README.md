@@ -14,7 +14,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
 <h2><i>Projects Developed & Deployed :</i></h2>
 
-<table border="50">
+<table border="25">
   <tr>
     <td align='center'>
       <a href="https://dalpatrathoredev.web.app">
@@ -105,7 +105,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
 <h2><i>Skills & DevTools Stack :</i></h2>
 
-<table border="75">
+<table border="25">
 <tr>
     <td align='center' width="200" height="75">
        <img align='center' alt="HTML 5" width="45px" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/html-icon.svg" />
@@ -187,7 +187,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
 <h2><i>GitHub Stats :</i></h2>
 
-<table border="50">
+<table border="25">
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=DalpatRathore&count_private=true&theme=algolia&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,0F2027,03071e&text_color=FFF" alt ="Dalpat Rathore's GitHub stats"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalpatRathore&layout=compact&langs_count=10" alt ="Top Languages"/></td>
@@ -207,7 +207,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
 <h2><i>Connect With Me :</i></h2>
 
-<table border="100">
+<table border="25">
 <tr>
   <td>
     ├─◈ <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
@@ -234,6 +234,5 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
       ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-14213d?style=plastic&logo=About.me&logoColor=orange"></a> 
   </td>
    </tr>
-   
 </table>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.s
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
