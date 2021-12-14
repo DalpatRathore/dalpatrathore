@@ -3,9 +3,9 @@
 
 I'm a self-taught frontend developer & designer - focuses on crafting clean and user friendly experiences with responsive web design without sacrificing accessibility, performance and creativity.
 
-**`Believes In :`** <strong> *Practice Brings Perfection* </strong>
+📌 **`Believes In :`** <strong> *Practice Brings Perfection* </strong>
 
-**`Current Focus :`** I’m developing, designing, learning, exploring and thinking about how to make things better.
+🎯 **`Current Focus :`** I’m developing, designing, learning, exploring and thinking about how to make things better.
 
 <img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/heroImg.webp">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dalpatrathore&color=001d3d&style=plastic&label=Github+Profile+Views" alt="Github Profile Views" /> </p>
@@ -207,7 +207,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 
 <h2><i>Connect With Me :</i></h2>
 
-<table border="25">
+<table border="75">
 <tr>
   <td>
     ├─◈ <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
