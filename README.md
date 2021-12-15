@@ -12,7 +12,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 <br>
 
-<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-developed.png" /> <i>Projects Developed & Deployed :</i></h2>
+<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-projects.png" /> <i> Projects Developed & Deployed :</i></h2>
 
 <table border="30">
   <tr>
@@ -146,7 +146,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </table>
 <br>
 
-<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-cards.png" /><i> GitHub Stats :</i></h2>
+<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
 
 <table border="2">
   <tr>
