@@ -12,7 +12,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 <br>
 
-<h2> <img width="50" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-developed.png" /> <img width="50" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-deployed.png" />  <i>Projects Developed & Deployed :</i></h2>
+<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-developed.png" /> <i>Projects Developed & Deployed :</i></h2>
 
 <table border="30">
   <tr>
@@ -64,7 +64,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </table>
 <br>
 
-<h2><img width="50" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i>Skills & DevTools Stack :</i></h2>
+<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack :</i></h2>
 
 <table border="5">
 <tr>
@@ -146,7 +146,7 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 </table>
 <br>
 
-<h2> <img width="50" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-cards.png" /> <i>GitHub Stats :</i></h2>
+<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-cards.png" /><i> GitHub Stats :</i></h2>
 
 <table border="2">
   <tr>
@@ -161,12 +161,12 @@ I'm a self-taught frontend developer & designer - focuses on crafting clean and 
 <br>
 
 
-<h2><img width="50" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i>GitHub Contribution Graph :</i></h2>
+<h2><img width="30" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
 ![Dalpat Rathore's github activity graph](https://activity-graph.herokuapp.com/graph?username=DalpatRathore&theme=rogue&line=f4791f&point=461220)
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h2><img width="50" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i>Connect With Me :</i></h2>
+<h2><img width="30" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
 <table border="75">
 <tr>
