@@ -154,7 +154,7 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalpatRathore&layout=compact&langs_count=10" alt ="Top Languages"/></td>
   </tr>
    <tr>
-    <td colspan="2" align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=dalpatrathore&hide_border=true&background=f6f8fa&stroke=03071E&ring=e36414&fire=e36414&currStreakNum=461220&sideNums=1E325C&currStreakLabel=89023e&sideLabels=89023e&dates=0d47a1&date_format=j%20M%5B%20Y%5D" alt ="Dalpat Rathore's GitHub Streak Stats"/>  </td> 
+    <td colspan="2" align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=dalpatrathore&hide_border=true&background=f6f8fa&stroke=03071E&ring=e36414&fire=e36414&currStreakNum=461220&sideNums=1E325C&currStreakLabel=03045e&sideLabels=240046&dates=0d47a1&date_format=j%20M%5B%20Y%5D" alt ="Dalpat Rathore's GitHub Streak Stats"/>  </td> 
     
   </tr>
 </table>
