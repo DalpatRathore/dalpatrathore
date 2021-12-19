@@ -16,20 +16,20 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
 
 <table border="15">
   <tr>
-    <td align='center'>
+    <td align='left'>
       <a href="https://dalpatrathoredev.web.app">
           <img align="center" alt="dalpat rathore" width="50" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
              <strong><i>My Portfolio</i></strong>
      </a>
    </td>
       
-   <td align='center'>
+   <td align='left'>
      <a href="https://dailydocket.web.app/">
         <img align="center" alt="daily docket" width="45" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dailydocket.png" />
              <strong><i>Daily Docket</i></strong>
     </a>
    </td>
-    <td align='center'>
+    <td align='left'>
      <a href="https://react15proj.web.app">
          <img align="center" alt="react 15 projects" width="45" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/react15proj.png" />
                <strong><i>React JS 15 Projects</i></strong>
@@ -38,27 +38,36 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
   </tr>
  
   <tr>
-   <td align='center' >
+   <td align='left' >
      <a href="https://dogsdetails.web.app/">
        <img align="center" alt="dogs web" width="60" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dogsweb.png" />
           <strong><i>Dogs Web</i></strong>
     </a>
   </td>
  
-  <td align='center'>
+  <td align='left'>
        <a href="https://cloneapp111.web.app/">
         <img align="center"  alt="Google Clone" width="45" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/googleclone.png" />
                 <strong><i>Google Clone</i></strong>
     </a>
   </td>
     
- <td align='center' >
+ <td align='left' >
       <a href="https://covid19tracks.web.app/">
         <img align="center" alt="Covid-19 Tracker" width="45" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/covid19.png" />
         <strong><i>Covid-19 Tracker</i></strong>
       </a>
         
    </td> 
+ </tr>
+ <tr>
+  <td align='left' >
+      <a href="https://cssniftychallenges.netlify.app/">
+        <img align="center" alt="CSS Nifty Challenges" width="45" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/css-icon.svg" />
+        <strong><i>CSS Nifty</i></strong>
+      </a>
+        
+   </td>
  </tr>
 
 </table>
@@ -150,7 +159,7 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
 
 <table border="1">
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=DalpatRathore&count_private=true&theme=algolia&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,0F2027,03071e&text_color=FFF" alt ="Dalpat Rathore's GitHub stats"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=DalpatRathore&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Dalpat Rathore's GitHub stats"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalpatRathore&layout=compact&langs_count=10" alt ="Top Languages"/></td>
   </tr>
    <tr>
