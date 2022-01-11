@@ -3,16 +3,16 @@
 
 I'm a self-taught front-end developer & designer - focuses on crafting clean and user-friendly experiences with responsive web design without sacrificing accessibility, performance, and creativity.
 
-📌 **`Believes In :`** <strong> *Practice Brings Perfection* </strong>
+📌 **`Believes In:`** <strong> *Practice Brings Perfection* </strong>
 
-🎯 **`Current Focus :`** I’m developing, designing, learning, exploring and thinking about how to make things better.
+🎯 **`Current Focus:`** I’m developing, designing, learning, exploring and thinking about how to make things better.
 
 <img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/heroImg.webp">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dalpatrathore&color=001d3d&style=plastic&label=Github+Profile+Views" alt="Github Profile Views" /> </p>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 <br>
 
-<h2> <img align="top" width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-projects.png" /> <i> Projects Developed & Deployed :</i></h2>
+<h2> <img align="top" width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-projects.png" /> <i> Projects Developed & Deployed:</i></h2>
 
 <table border="0">
   <tr>
@@ -79,7 +79,7 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
 </table>
 <br>
 
-<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack :</i></h2>
+<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack:</i></h2>
 
 <table border="2">
 <tr>
@@ -161,7 +161,7 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
 </table>
 <br>
 
-<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
+<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats:</i></h2>
 
 <table border="1">
   <tr>
@@ -177,12 +177,12 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
 <br>
 
 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph:</i></h2>
 
 [![Dalpat Rathore's github activity graph](https://activity-graph.herokuapp.com/graph?username=DalpatRathore&theme=rogue&line=f4791f&point=461220)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
 
 <table border="1">
   <tr>
