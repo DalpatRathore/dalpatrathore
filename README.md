@@ -218,8 +218,7 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
     </td>
      <td>
     <table>
-     <a href="https://unsplash.com/@sebastiansvenson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">   <img width="500" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/art.jpg" />    
-     </a> 
+     <img align="center" alt="art image" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/art-img.png">
          
    </table>
        </td>
