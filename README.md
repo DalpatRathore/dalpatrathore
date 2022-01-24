@@ -84,58 +84,58 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
 <table border="2">
 <tr>
    <td align='left' >
-       <img width="100" align="center" src="https://img.shields.io/badge/HTML 5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML 5">
+       <img width="100" align="center" src="https://img.shields.io/badge/HTML 5-1d3461?style=flat&logo=html5&logoColor=E34F26" alt="HTML 5">
     </td>
    <td align='left' >
-       <img width="100" align="center" src="https://img.shields.io/badge/CSS 3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS 3">
+       <img width="100" align="center" src="https://img.shields.io/badge/CSS 3-1d3461?style=flat&logo=css3&logoColor=1572B6" alt="CSS 3">
     </td>
    <td align='left' >
-       <img width="100" align="center" src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS">
+       <img width="100" align="center" src="https://img.shields.io/badge/SASS-1d3461?style=flat&logo=sass&logoColor=CC6699" alt="SASS">
     </td>
    <td align='left' >
-       <img width="100" align="center" src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white" alt="FIGMA">
+       <img width="100" align="center" src="https://img.shields.io/badge/FIGMA-1d3461?style=flat&logo=figma&logoColor=F24E1E" alt="FIGMA">
     </td>    
   
 </tr>
 <tr>
    <td align='left' >
-       <img width="140" align="center" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Java Script">
+       <img width="140" align="center" src="https://img.shields.io/badge/JAVASCRIPT-1d3461?style=flat&logo=javascript&logoColor=F7DF1E" alt="Java Script">
     </td>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/REACT JS-61DAFB?style=flat&logo=react&logoColor=white" alt="React JS">
+       <img width="120" align="center" src="https://img.shields.io/badge/REACT JS-1d3461?style=flat&logo=react&logoColor=61DAFB" alt="React JS">
     </td>
    <td align='left' >
-       <img width="110" align="center" src="https://img.shields.io/badge/NEXT JS-000000?style=flat&logo=next.js&logoColor=white" alt="Next JS">
+       <img width="110" align="center" src="https://img.shields.io/badge/NEXT JS-1d3461?style=flat&logo=next.js&logoColor=000000" alt="Next JS">
     </td>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+       <img width="120" align="center" src="https://img.shields.io/badge/POSTMAN-1d3461?style=flat&logo=postman&logoColor=FF6C37" alt="Postman">
     </td>
        
   
 </tr>
 <tr>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/NODE JS-339933?style=flat&logo=node.js&logoColor=white" alt="Node JS">
+       <img width="120" align="center" src="https://img.shields.io/badge/NODE JS-1d3461?style=flat&logo=node.js&logoColor=339933" alt="Node JS">
     </td>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/EPRESS JS-000000?style=flat&logo=express&logoColor=white" alt="Express JS">
+       <img width="120" align="center" src="https://img.shields.io/badge/EPRESS JS-1d3461?style=flat&logo=express&logoColor=000000" alt="Express JS">
     </td>
    <td align='left' >
-       <img width="130" align="center" src="https://img.shields.io/badge/MONGO DB-47A248?style=flat&logo=mongodb&logoColor=white" alt="Mongo DB">
+       <img width="130" align="center" src="https://img.shields.io/badge/MONGO DB-1d3461?style=flat&logo=mongodb&logoColor=47A248" alt="Mongo DB">
     </td>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase">
+       <img width="120" align="center" src="https://img.shields.io/badge/FIREBASE-1d3461?style=flat&logo=firebase&logoColor=FFCA28" alt="Firebase">
     </td> 
 </tr>
 <tr>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/VS CODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
+       <img width="120" align="center" src="https://img.shields.io/badge/VS CODE-1d3461?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
     </td>
      <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+       <img width="120" align="center" src="https://img.shields.io/badge/GITHUB-1d3461?style=flat&logo=github&logoColor=181717" alt="GitHub">
     </td>
    <td align='left' >
-       <img width="85" align="center" src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+       <img width="85" align="center" src="https://img.shields.io/badge/GIT-1d3461?style=flat&logo=git&logoColor=F05032" alt="Git">
     </td>
   
  
@@ -195,7 +195,7 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
    </tr>
   <tr>
   <td>
-      ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-14213d?style=plastic&logo=About.me&logoColor=orange"></a> 
+      ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=plastic&logo=About.me&logoColor=orange"></a> 
   </td>
    </tr>
 </table>
