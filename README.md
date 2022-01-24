@@ -99,16 +99,16 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
 </tr>
 <tr>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Java Script">
+       <img width="140" align="center" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Java Script">
     </td>
    <td align='left' >
        <img width="120" align="center" src="https://img.shields.io/badge/REACT JS-61DAFB?style=flat&logo=react&logoColor=white" alt="React JS">
     </td>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/NEXT JS-000000?style=flat&logo=next.js&logoColor=white" alt="React JS">
+       <img width="110" align="center" src="https://img.shields.io/badge/NEXT JS-000000?style=flat&logo=next.js&logoColor=white" alt="Next JS">
     </td>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat&logo=postman&logoColor=white" alt="React JS">
+       <img width="120" align="center" src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
     </td>
        
   
@@ -121,7 +121,7 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
        <img width="120" align="center" src="https://img.shields.io/badge/EPRESS JS-000000?style=flat&logo=express&logoColor=white" alt="Express JS">
     </td>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/MONGO DB-47A248?style=flat&logo=mongodb&logoColor=white" alt="Mongo DB">
+       <img width="130" align="center" src="https://img.shields.io/badge/MONGO DB-47A248?style=flat&logo=mongodb&logoColor=white" alt="Mongo DB">
     </td>
    <td align='left' >
        <img width="120" align="center" src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase">
@@ -135,7 +135,7 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
        <img width="120" align="center" src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
     </td>
    <td align='left' >
-       <img width="75" align="center" src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+       <img width="85" align="center" src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white" alt="Git">
     </td>
   
  
