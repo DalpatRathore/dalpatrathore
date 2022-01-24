@@ -83,81 +83,65 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
 
 <table border="2">
 <tr>
-    <td align='left' >
-       <img align='center' alt="HTML 5" width="35" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/html-icon.svg" />
-       <strong><i>HTML 5</i></strong>
+   <td align='left' >
+       <img width="100" align="center" src="https://img.shields.io/badge/HTML 5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML 5">
     </td>
-    <td align='left'>
-       <img align='center' alt="CSS 3" width="35" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/css-icon.svg" />
-       <strong><i>CSS</i></strong>
+   <td align='left' >
+       <img width="100" align="center" src="https://img.shields.io/badge/CSS 3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS 3">
     </td>
-    <td align='left' >
-       <img align="center" alt="Sass" width="35" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/sass-icon.svg" />
-       <strong><i>SASS</i></strong>
+   <td align='left' >
+       <img width="100" align="center" src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS">
     </td>
-    <td align='left' >
-       <img align="center" alt="Figma" width="35" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/figma-icon.svg" />
-      <strong><i>FIGMA</i></strong>
-    </td>
+   <td align='left' >
+       <img width="100" align="center" src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white" alt="FIGMA">
+    </td>    
+  
 </tr>
 <tr>
-    
    <td align='left' >
-       <img align="center" alt="JavaScript" width="35" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/javascript-icon.svg" />
-        <strong><i>JAVASCRIPT</i></strong>
+       <img width="120" align="center" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Java Script">
     </td>
-
    <td align='left' >
-       <img align="center" alt="React JS" width="35" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/reactjs-icon.svg" />
-       <strong><i>REACT JS</i></strong>
+       <img width="120" align="center" src="https://img.shields.io/badge/REACT JS-61DAFB?style=flat&logo=react&logoColor=white" alt="React JS">
     </td>
-
    <td align='left' >
-       <img align="center" alt="Next JS" width="35" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nextjs-icon.svg" />
-               <strong><i>NEXT JS</i></strong>
+       <img width="120" align="center" src="https://img.shields.io/badge/NEXT JS-000000?style=flat&logo=next.js&logoColor=white" alt="React JS">
     </td>
-
    <td align='left' >
-       <img align="center" alt="Postman" width="35" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/postman-icon.svg" />
-               <strong><i>POSTMAN</i></strong>
+       <img width="120" align="center" src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat&logo=postman&logoColor=white" alt="React JS">
     </td>
-
+       
+  
 </tr>
 <tr>
-      <td align='left' >
-       <img align="center" alt="Node JS" width="35" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/nodejs-icon.svg" />
-               <strong><i>NODE JS</i></strong>
+   <td align='left' >
+       <img width="120" align="center" src="https://img.shields.io/badge/NODE JS-339933?style=flat&logo=node.js&logoColor=white" alt="Node JS">
+    </td>
+   <td align='left' >
+       <img width="120" align="center" src="https://img.shields.io/badge/EPRESS JS-000000?style=flat&logo=express&logoColor=white" alt="Express JS">
+    </td>
+   <td align='left' >
+       <img width="120" align="center" src="https://img.shields.io/badge/MONGO DB-47A248?style=flat&logo=mongodb&logoColor=white" alt="Mongo DB">
+    </td>
+   <td align='left' >
+       <img width="120" align="center" src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase">
+    </td> 
+</tr>
+<tr>
+   <td align='left' >
+       <img width="120" align="center" src="https://img.shields.io/badge/VS CODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
     </td>
      <td align='left' >
-       <img align="center" alt="Express JS" width="50" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/express-icon.svg" />
-              <strong><i>EXPRESS</i></strong>
-    </td>     
-     <td align='left' >
-       <img align="center" alt="Mongo DB" width="20" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/mongodb-icon.svg" />
-               <strong><i>MONGO DB</i></strong>
-    </td>   
-    <td align='left' >
-       <img align="center" alt="Firebase" width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/firebase-icon.svg" />
-              <strong><i>FIREBASE</i></strong>
+       <img width="120" align="center" src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
     </td>
-
-</tr>
-<tr>
-     
    <td align='left' >
-       <img align="center" alt="Visual Studio Code" width="35" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/vscode-icon.svg" />
-               <strong><i>VS CODE</i></strong>
+       <img width="75" align="center" src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white" alt="Git">
     </td>
+  
+ 
+</tr>
 
-   <td align='left'>
-       <img align="center" alt="Git" width="40" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/git-icon.svg" />
-               <strong><i>GIT</i></strong>
-    </td>
-    <td align='left' >
-       <img align="center" alt="GitHub" width="35" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/github-icon.svg" />
-              <strong><i>GITHUB</i></strong>
-    </td>
- </tr>
+
 </table>
 <br>
 
