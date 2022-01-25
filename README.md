@@ -92,9 +92,10 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
    <td align='left' >
        <img width="100" align="center" src="https://img.shields.io/badge/SASS-1d3461?style=flat&logo=sass&logoColor=CC6699" alt="SASS">
     </td>
+     
    <td align='left' >
-       <img width="100" align="center" src="https://img.shields.io/badge/FIGMA-1d3461?style=flat&logo=figma&logoColor=F24E1E" alt="FIGMA">
-    </td>    
+       <img width="150" align="center" src="https://img.shields.io/badge/MARKDOWN-1d3461?style=flat&logo=markdown&logoColor=000000" alt="Markdown">
+    </td>
   
 </tr>
 <tr>
@@ -132,11 +133,14 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
        <img width="120" align="center" src="https://img.shields.io/badge/VS CODE-1d3461?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
     </td>
      <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/GITHUB-1d3461?style=flat&logo=github&logoColor=181717" alt="GitHub">
-    </td>
-   <td align='left' >
        <img width="85" align="center" src="https://img.shields.io/badge/GIT-1d3461?style=flat&logo=git&logoColor=F05032" alt="Git">
     </td>
+     <td align='left' >
+       <img width="120" align="center" src="https://img.shields.io/badge/GITHUB-1d3461?style=flat&logo=github&logoColor=181717" alt="GitHub">
+    </td>
+     <td align='left' >
+       <img width="100" align="center" src="https://img.shields.io/badge/FIGMA-1d3461?style=flat&logo=figma&logoColor=F24E1E" alt="FIGMA">
+    </td> 
   
  
 </tr>
