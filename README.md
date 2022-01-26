@@ -106,7 +106,7 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
        <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/reactjs-3D.svg" alt="React JS">
     </td>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/nextjs.svg" alt="Next JS">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/nextjs-3D.svg" alt="Next JS">
     </td>
    <td align='left' >
        <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/postman-3D.svg" alt="Postman">
@@ -119,7 +119,7 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
        <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/nodejs-3D.svg" alt="Node JS">
     </td>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/expressjs.svg" alt="Express JS">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/expressjs-3D.svg" alt="Express JS">
     </td>
    <td align='left' >
        <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/mongodb-3D.svg" alt="Mongo DB">
