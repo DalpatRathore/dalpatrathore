@@ -84,62 +84,62 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
 <table border="2">
 <tr>
    <td align='left' >
-       <img width="100" align="center" src="https://img.shields.io/badge/HTML 5-1d3461?style=flat&logo=html5&logoColor=E34F26" alt="HTML 5">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/html5-3D.svg" alt="HTML 5">
     </td>
    <td align='left' >
-       <img width="100" align="center" src="https://img.shields.io/badge/CSS 3-1d3461?style=flat&logo=css3&logoColor=1572B6" alt="CSS 3">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/css3-3D.svg" alt="CSS 3">
     </td>
    <td align='left' >
-       <img width="100" align="center" src="https://img.shields.io/badge/SASS-1d3461?style=flat&logo=sass&logoColor=CC6699" alt="SASS">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/sass-3D.svg" alt="SASS">
     </td>
      
    <td align='left' >
-       <img width="150" align="center" src="https://img.shields.io/badge/MARKDOWN-1d3461?style=flat&logo=markdown&logoColor=000000" alt="Markdown">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/markdown-3D.svg" alt="Markdown">
     </td>
   
 </tr>
 <tr>
    <td align='left' >
-       <img width="140" align="center" src="https://img.shields.io/badge/JAVASCRIPT-1d3461?style=flat&logo=javascript&logoColor=F7DF1E" alt="Java Script">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/javascript-3D.svg" alt="JavaScript">
     </td>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/REACT JS-1d3461?style=flat&logo=react&logoColor=61DAFB" alt="React JS">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/reactjs-3D.svg" alt="React JS">
     </td>
    <td align='left' >
-       <img width="110" align="center" src="https://img.shields.io/badge/NEXT JS-1d3461?style=flat&logo=next.js&logoColor=000000" alt="Next JS">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/nextjs.svg" alt="Next JS">
     </td>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/POSTMAN-1d3461?style=flat&logo=postman&logoColor=FF6C37" alt="Postman">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/postman-3D.svg" alt="Postman">
     </td>
        
   
 </tr>
 <tr>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/NODE JS-1d3461?style=flat&logo=node.js&logoColor=339933" alt="Node JS">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/nodejs-3D.svg" alt="Node JS">
     </td>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/EPRESS JS-1d3461?style=flat&logo=express&logoColor=000000" alt="Express JS">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/expressjs.svg" alt="Express JS">
     </td>
    <td align='left' >
-       <img width="130" align="center" src="https://img.shields.io/badge/MONGO DB-1d3461?style=flat&logo=mongodb&logoColor=47A248" alt="Mongo DB">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/mongodb-3D.svg" alt="Mongo DB">
     </td>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/FIREBASE-1d3461?style=flat&logo=firebase&logoColor=FFCA28" alt="Firebase">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/firebase-3D.svg" alt="Firebase">
     </td> 
 </tr>
 <tr>
    <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/VS CODE-1d3461?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/vscode-3D.svg" alt="VS Code">
     </td>
      <td align='left' >
-       <img width="85" align="center" src="https://img.shields.io/badge/GIT-1d3461?style=flat&logo=git&logoColor=F05032" alt="Git">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/git-3D.svg" alt="Git">
     </td>
      <td align='left' >
-       <img width="120" align="center" src="https://img.shields.io/badge/GITHUB-1d3461?style=flat&logo=github&logoColor=181717" alt="GitHub">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/github-3D.svg" alt="GitHub">
     </td>
      <td align='left' >
-       <img width="100" align="center" src="https://img.shields.io/badge/FIGMA-1d3461?style=flat&logo=figma&logoColor=F24E1E" alt="FIGMA">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/figma-3D.svg" alt="FIGMA">
     </td> 
   
  
