@@ -28,22 +28,19 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
     
    <td align='left' >
      <a href="https://dogsdetails.web.app/">
-       <img align="center" alt="dogs web" width="60" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dogsweb.png" />
-          <strong><i>Dogs Web</i></strong>
-    </a>
+       <img align="center" alt="dogs web" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects/dogsweb.png" />
+             </a>
   </td> 
    <td align='left'>
      <a href="https://dailydocket.web.app/">
-        <img align="center" alt="daily docket" width="40" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dailydocket.png" />
-             <strong><i>Daily Docket</i></strong>
-    </a>
+        <img align="center" alt="daily docket" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects/dailydocket.png" />
+                 </a>
    </td>
     
    <td align='left'>
      <a href="https://react15proj.web.app">
-         <img align="center" alt="react 15 projects" width="45" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/react15proj.png" />
-               <strong><i>ReactJS Proj...</i></strong>
-    </a>    
+         <img align="center" alt="react 15 projects" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects/reactjsproj.png" />
+                  </a>    
   </td>    
   </tr>
  
@@ -52,24 +49,21 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
 
   <td align='left' >
       <a href="https://cssniftychallenges.netlify.app/">
-        <img align="center" alt="CSS Nifty Challenges" width="40" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/css-icon.svg" />
-        <strong><i>CSS Nifty</i></strong>
-      </a>
+        <img align="center" alt="CSS Nifty Challenges" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects/cssnifty.svg" />
+             </a>
         
    </td> 
  
   <td align='left'>
        <a href="https://cloneapp111.web.app/">
-        <img align="center"  alt="Google Clone" width="35" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/googleclone.png" />
-                <strong><i>Google Clone</i></strong>
-    </a>
+        <img align="center"  alt="Google Clone"  src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects/googleclone.png" />
+                    </a>
   </td>
     
  <td align='left' >
       <a href="https://covid19tracks.web.app/">
-        <img align="center" alt="Covid-19 Tracker" width="40" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/covid19.png" />
-        <strong><i>Covid-19 Tracker</i></strong>
-      </a>
+        <img align="center" alt="Covid-19 Tracker" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects/covid19tracker.png" />
+             </a>
         
    </td>
    
