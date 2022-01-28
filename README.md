@@ -49,7 +49,7 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
 
   <td align='left' >
       <a href="https://cssniftychallenges.netlify.app/">
-        <img align="center" alt="CSS Nifty Challenges" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects/cssnifty.svg" />
+        <img align="center" alt="CSS Nifty Challenges" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects/cssnifty.png" />
              </a>
         
    </td> 
