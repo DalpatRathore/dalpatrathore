@@ -110,7 +110,7 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
 </tr>
 <tr>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assetsskills-stack/nodejs-3D.png" alt="Node JS">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/nodejs-3D.png" alt="Node JS">
     </td>
    <td align='left' >
        <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/expressjs-3D.png" alt="Express JS">
