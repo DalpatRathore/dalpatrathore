@@ -78,62 +78,62 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
 <table border="2">
 <tr>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/html5-3D.png" alt="HTML 5">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/html5-3D.png" alt="HTML 5">
     </td>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/css3-3D.png" alt="CSS 3">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/css3-3D.png" alt="CSS 3">
     </td>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/sass-3D.png" alt="SASS">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/sass-3D.png" alt="SASS">
     </td>
      
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/markdown-3D.png" alt="Markdown">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/markdown-3D.png" alt="Markdown">
     </td>
   
 </tr>
 <tr>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/javascript-3D.png" alt="JavaScript">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/javascript-3D.png" alt="JavaScript">
     </td>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/reactjs-3D.png" alt="React JS">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/reactjs-3D.png" alt="React JS">
     </td>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/nextjs-3D.png" alt="Next JS">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/nextjs-3D.png" alt="Next JS">
     </td>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/postman-3D.png" alt="Postman">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/postman-3D.png" alt="Postman">
     </td>
        
   
 </tr>
 <tr>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/nodejs-3D.png" alt="Node JS">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assetsskills-stack/nodejs-3D.png" alt="Node JS">
     </td>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/expressjs-3D.png" alt="Express JS">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/expressjs-3D.png" alt="Express JS">
     </td>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/mongodb-3D.png" alt="Mongo DB">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/mongodb-3D.png" alt="Mongo DB">
     </td>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/firebase-3D.png" alt="Firebase">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/firebase-3D.png" alt="Firebase">
     </td> 
 </tr>
 <tr>
    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/vscode-3D.png" alt="VS Code">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/vscode-3D.png" alt="VS Code">
     </td>
      <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/git-3D.png" alt="Git">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/git-3D.png" alt="Git">
     </td>
      <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/github-3D.png" alt="GitHub">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/github-3D.png" alt="GitHub">
     </td>
      <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons-3D/figma-3D.png" alt="FIGMA">
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/figma-3D.png" alt="FIGMA">
     </td> 
   
  
