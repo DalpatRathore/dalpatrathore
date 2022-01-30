@@ -170,6 +170,12 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
   <tr>
     <td>
       <table border="75">
+     <tr>
+  <td>
+     ├─◈ <strong>Twitter</strong>: <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://img.shields.io/badge/@ingenuity_brain-1DA1F2?style=plastic&logo=twitter&logoColor=white"></a> 
+    
+  </td>
+   </tr>
 <tr>
   <td>
     ├─◈ <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
@@ -177,20 +183,20 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
   
    </tr>
   <tr>
-  <td>
-     ├─◈ <strong>Twitter</strong>: <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://img.shields.io/badge/@ingenuity_brain-1DA1F2?style=plastic&logo=twitter&logoColor=white"></a> 
-    
-  </td>
-   </tr> <tr>
  <td>
-   ├─◈ <strong>GitHub</strong>: <a href="https://github.com/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-100000?style=plastic&logo=github&logoColor=white"></a>    
+   ├─◈ <strong>Dev</strong>: <a href="https://dev.to/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0A0A0A?style=plastic&logo=dev.to&logoColor=white"></a>    
   </td>
    </tr> 
   <tr>
   <td>
-      ├─◈ <strong>Facebook</strong>: <a href="https://facebook.com/dalpat.rathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-1877F2?style=plastic&logo=facebook&logoColor=white"></a> 
+      ├─◈ <strong>Dribble</strong>: <a href="https://dribbble.com/dalpatrathore/about"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-EA4C89?style=plastic&logo=dribbble&logoColor=white"></a> 
   </td>
    </tr>
+  <!-- <tr>
+  <td>
+      ├─◈ <strong>Medium</strong>: <a href="https://dalpatrathore.medium.com/"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> 
+  </td>
+   </tr> -->
   <tr>
   <td>
       ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=plastic&logo=About.me&logoColor=orange"></a> 
