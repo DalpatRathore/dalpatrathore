@@ -80,6 +80,9 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
    <td align='left' >
        <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/html5-3D.png" alt="HTML 5">
     </td>
+    <td align='left' >
+       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/markdown-3D.png" alt="Markdown">
+    </td>
    <td align='left' >
        <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/css3-3D.png" alt="CSS 3">
     </td>
@@ -87,9 +90,7 @@ I'm a self-taught front-end developer & designer - focuses on crafting clean and
        <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/sass-3D.png" alt="SASS">
     </td>
      
-   <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/markdown-3D.png" alt="Markdown">
-    </td>
+   
   
 </tr>
 <tr>
