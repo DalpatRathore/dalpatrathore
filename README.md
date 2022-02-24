@@ -1,9 +1,10 @@
 <h1><i>Hi there,  I'm  <img align="center" alt="Dalpat Rathore" width="500" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/myname.gif"> </i> </h1>
 <!-- <h1><i>Hi there,  I'm Dalpat Rathore</i></h1> -->
 
-I'm a self-taught front-end developer & designer - focuses on crafting clean and user-friendly experiences with responsive web design without sacrificing accessibility, performance, and creativity.
+I'm a self-taught Software developer & designer - focuses on crafting clean and user-friendly experiences with responsive web design without sacrificing accessibility, performance, and creativity.
 
-📌 **`Believes In:`** <strong> *Practice Brings Perfection* </strong>
+📌 **`Believes In:`** <strong> *Make it Work, Make it Right, Make it Fast.* </strong>
+<!-- 📌 **`Believes In:`** <strong> *Practice Brings Perfection* </strong> -->
 
 🎯 **`Current Focus:`** I’m developing, designing, learning, exploring and thinking about how to make things better.
 
