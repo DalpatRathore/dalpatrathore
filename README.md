@@ -1,7 +1,7 @@
 <h1><i>Hi there,  I'm  <img align="center" alt="Dalpat Rathore" width="500" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/myname.gif"> </i> </h1>
 <!-- <h1><i>Hi there,  I'm Dalpat Rathore</i></h1> -->
 
-I'm a self-taught Software developer & designer - focuses on crafting clean and user-friendly experiences with responsive web design without sacrificing accessibility, performance, and creativity.
+I'm a self-taught Software Developer & Designer - focuses on crafting clean and user-friendly experiences with responsive web design without sacrificing accessibility, performance, and creativity.
 
 📌 **`Believes In:`** <strong> *Make it Work, Make it Right, Make it Fast.* </strong>
 <!-- 📌 **`Believes In:`** <strong> *Practice Brings Perfection* </strong> -->
@@ -172,10 +172,15 @@ I'm a self-taught Software developer & designer - focuses on crafting clean and 
   <tr>
     <td>
       <table border="75">
-     <tr>
+      <tr>
   <td>
      ├─◈ <strong>Twitter</strong>: <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://img.shields.io/badge/@ingenuity_brain-1DA1F2?style=plastic&logo=twitter&logoColor=white"></a> 
     
+  </td>
+   </tr>
+   <tr>
+  <td>
+      ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=plastic&logo=About.me&logoColor=orange"></a> 
   </td>
    </tr>
 <tr>
@@ -184,26 +189,24 @@ I'm a self-taught Software developer & designer - focuses on crafting clean and 
   </td>
   
    </tr>
-  <tr>
- <td>
-   ├─◈ <strong>Dev</strong>: <a href="https://dev.to/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0A0A0A?style=plastic&logo=dev.to&logoColor=white"></a>    
-  </td>
-   </tr> 
+  
   <tr>
   <td>
       ├─◈ <strong>Dribble</strong>: <a href="https://dribbble.com/dalpatrathore/about"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-EA4C89?style=plastic&logo=dribbble&logoColor=white"></a> 
   </td>
    </tr>
+
+   <tr>
+ <td>
+   ├─◈ <strong>Dev</strong>: <a href="https://dev.to/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0A0A0A?style=plastic&logo=dev.to&logoColor=white"></a>    
+  </td>
+   </tr> 
   <!-- <tr>
   <td>
       ├─◈ <strong>Medium</strong>: <a href="https://dalpatrathore.medium.com/"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> 
   </td>
    </tr> -->
-  <tr>
-  <td>
-      ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=plastic&logo=About.me&logoColor=orange"></a> 
-  </td>
-   </tr>
+ 
 </table>
     </td>
      <td>
