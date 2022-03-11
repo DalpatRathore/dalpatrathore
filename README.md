@@ -171,7 +171,7 @@ I'm a self-taught Software Developer & Designer - focuses on crafting clean and 
 <table border="1">
   <tr>
     <td>
-      <table border="75">
+      <table border="50">
       <tr>
   <td>
      ├─◈ <strong>Twitter</strong>: <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://img.shields.io/badge/@ingenuity_brain-1DA1F2?style=plastic&logo=twitter&logoColor=white"></a> 
