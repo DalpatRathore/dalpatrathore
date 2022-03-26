@@ -3,10 +3,27 @@
 
 I'm a self-taught Software Developer & Designer - focuses on crafting clean and user-friendly experiences with responsive web design without sacrificing accessibility, performance, and creativity.
 
-📌 **`Believes In:`** <strong> *Make it Work, Make it Right, Make it Fast.* </strong>
-<!-- 📌 **`Believes In:`** <strong> *Practice Brings Perfection* </strong> -->
+📌 **`Believes In:`** Practice Brings Perfection
 
 🎯 **`Current Focus:`** I’m developing, designing, learning, exploring and thinking about how to make things better.
+
+```mermaid
+  flowchart TB
+    
+    subgraph Execution
+    b1(Make it Work)
+    b2(Make it Right)
+    b3(Make it Fast)
+    end
+    
+    subgraph Strategy
+    c1(Create like an Artist)
+    c2(Solve like an Engineer)
+    c3(Act like an Entrepreneur)
+    end
+    
+    
+```
 
 <img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/heroImg.webp">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dalpatrathore&color=001d3d&style=plastic&label=Github+Profile+Views" alt="Github Profile Views" /> </p>
