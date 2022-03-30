@@ -228,12 +228,12 @@ I'm a self-taught Software Developer & Designer - focuses on crafting clean and 
  
 </table>
     </td>
-     <td>
+     <!-- <td>
     <table>
      <img align="center" alt="art image" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/art-img.png">
          
    </table>
-       </td>
+       </td> -->
    </tr>
   </table>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
