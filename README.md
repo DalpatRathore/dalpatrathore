@@ -190,7 +190,7 @@ I'm a self-taught Software Developer & Designer - focuses on crafting clean and 
 <table border="1">
   <tr>
     <td>
-      <table border="50">
+      <table border="0">
       <tr>
   <td>
      ├─◈ <strong>Twitter</strong>: <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://img.shields.io/badge/@ingenuity_brain-1DA1F2?style=plastic&logo=twitter&logoColor=white"></a> 
@@ -230,9 +230,8 @@ I'm a self-taught Software Developer & Designer - focuses on crafting clean and 
     </td>
      <td>
     <table>
-     <img align="center" alt="art image" src="https://raw.githubusercontent.com/DalpatRathore/my-metrics/main/metrics.plugin.tweets.svg">
-         
-   </table>
+      <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://raw.githubusercontent.com/DalpatRathore/my-metrics/main/metrics.plugin.tweets.svg"></a> 
+    </table>
        </td>
    </tr>
   </table>
