@@ -235,4 +235,4 @@ I'm a self-taught Software Developer & Designer - focuses on crafting clean and 
        </td>
    </tr>
   </table>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<!-- <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg"> -->
