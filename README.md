@@ -193,13 +193,13 @@ I'm a self-taught Software Developer & Designer - focuses on crafting clean and 
       <table border="0">
       <tr>
   <td>
-     ├─◈ <strong>Twitter</strong>: <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://img.shields.io/badge/@ingenuity_brain-1DA1F2?style=plastic&logo=twitter&logoColor=white"></a> 
+     ├─◈ <strong>Twitter</strong>: <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://img.shields.io/badge/@ingenuity_brain-1DA1F2?style=flat&logo=twitter&logoColor=white"></a> 
     
   </td>
    </tr>
    <tr>
   <td>
-      ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=plastic&logo=About.me&logoColor=orange"></a> 
+      ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=flat&logo=About.me&logoColor=orange"></a> 
   </td>
    </tr>
 <tr>
@@ -211,21 +211,21 @@ I'm a self-taught Software Developer & Designer - focuses on crafting clean and 
   
   <tr>
   <td>
-      ├─◈ <strong>Dribble</strong>: <a href="https://dribbble.com/dalpatrathore/about"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-EA4C89?style=plastic&logo=dribbble&logoColor=white"></a> 
+      ├─◈ <strong>Dribble</strong>: <a href="https://dribbble.com/dalpatrathore/about"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-EA4C89?style=flat&logo=dribbble&logoColor=white"></a> 
   </td>
    </tr>
 
    <tr>
  <td>
-   ├─◈ <strong>Dev</strong>: <a href="https://dev.to/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0A0A0A?style=plastic&logo=dev.to&logoColor=white"></a>    
+   ├─◈ <strong>Dev</strong>: <a href="https://dev.to/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0A0A0A?style=flat&logo=dev.to&logoColor=white"></a>    
   </td>
    </tr> 
-  <!-- <tr>
+<tr>
   <td>
-      ├─◈ <strong>Medium</strong>: <a href="https://dalpatrathore.medium.com/"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> 
+      ├─◈ <strong>Hashnode</strong>: <a href="https://hashnode.com/@dalpatrathore"> <img align="center" src="https://img.shields.io/badge/@dalpatrathore-2962FF?style=flat&logo=hashnode&logoColor=white"></a> 
   </td>
-   </tr> -->
- 
+   </tr> 
+       
 </table>
     </td>
      <td>
