@@ -197,11 +197,7 @@ I'm a self-taught Software Developer & Designer - focuses on crafting clean and 
     
   </td>
    </tr>
-   <tr>
-  <td>
-      ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=flat&logo=About.me&logoColor=orange"></a> 
-  </td>
-   </tr>
+   
 <tr>
   <td>
     ├─◈ <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
@@ -224,7 +220,12 @@ I'm a self-taught Software Developer & Designer - focuses on crafting clean and 
   <td>
       ├─◈ <strong>Hashnode</strong>: <a href="https://hashnode.com/@dalpatrathore"> <img align="center" src="https://img.shields.io/badge/@dalpatrathore-2962FF?style=flat&logo=hashnode&logoColor=white"></a> 
   </td>
-   </tr> 
+   </tr>
+        <tr>
+  <td>
+      ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=flat&logo=About.me&logoColor=orange"></a> 
+  </td>
+   </tr>
        
 </table>
     </td>
