@@ -1,7 +1,7 @@
 <h1><i>Hi there,  I'm  <img align="center" alt="Dalpat Rathore" width="500" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/myname.gif"> </i> </h1>
 <!-- <h1><i>Hi there,  I'm Dalpat Rathore</i></h1> -->
 
-I'm a self-taught Software Developer & Designer - focuses on crafting clean and user-friendly experiences with responsive web design without sacrificing accessibility, performance, and creativity. Currently, I’m developing, designing, learning, exploring, and thinking about how to make things better.
+:computer: I'm a self-taught Software Developer & Designer - focuses on crafting clean and user-friendly experiences with responsive web design without sacrificing accessibility, performance, and creativity. Currently, I’m developing, designing, learning, exploring, and thinking about how to make things better.
 
 ```mermaid
   flowchart TB
