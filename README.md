@@ -193,18 +193,20 @@
   <tr>
     <td>
       <table border="0">
-      <tr>
-  <td>
-     ├─◈ <strong>Twitter</strong>: <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://img.shields.io/badge/@ingenuity_brain-1DA1F2?style=flat&logo=twitter&logoColor=white"></a> 
-    
-  </td>
-   </tr>
+     
    
 <tr>
   <td>
     ├─◈ <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
   </td>
   
+   </tr>
+  
+  <tr>
+  <td>
+     ├─◈ <strong>Twitter</strong>: <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://img.shields.io/badge/@ingenuity_brain-1DA1F2?style=flat&logo=twitter&logoColor=white"></a> 
+    
+  </td>
    </tr>
   
   <tr>
