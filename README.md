@@ -40,7 +40,7 @@
   <tr>
   
    <td align='center' colspan="3">
-      <a href="https://dalpatrathoredev.web.app">
+      <a href="https://dalpatrathore.netlify.app">
           <img align="center" alt="Dalpat Rathore" width="75" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
              <strong><i>My Portfolio</i></strong>
      </a>
