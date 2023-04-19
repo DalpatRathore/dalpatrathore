@@ -70,8 +70,8 @@
   
 
   <td align='left' >
-      <a href="https://cssnifty.netlify.app/">
-        <img align="center"  width="200" alt="CSS Nifty" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects-stack/cssnifty.png" />
+      <a href="https://gptweatherweb.netlify.app">
+        <img align="center"  width="200" alt="CSS Nifty" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects-stack/gptweatherapp.png" />
              </a>
         
    </td> 
