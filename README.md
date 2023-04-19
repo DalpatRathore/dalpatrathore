@@ -1,7 +1,7 @@
 <h1><i>Hi there,  I'm  <img align="center" alt="Dalpat Rathore" width="500" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/myname.gif"> </i> </h1>
 <!-- <h1><i>Hi there,  I'm Dalpat Rathore</i></h1> -->
 
-:computer: I'm a self-taught Software Developer & Designer - focuses on crafting clean and user-friendly experiences with responsive web design without sacrificing accessibility, performance, and creativity.
+:computer: I'm a self-taught Software Developer & Designer - focuses on crafting clean, user-friendly UI/UX with responsive web design without sacrificing accessibility, performance, and creativity.
 <br/>
 🌱Currently, I’m developing, designing, learning, exploring, and thinking about how to make things better.
 
@@ -40,7 +40,7 @@
   <tr>
   
    <td align='center' colspan="3">
-      <a href="https://dalpatrathoredev.web.app">
+      <a href="https://dalpatrathore.netlify.app">
           <img align="center" alt="Dalpat Rathore" width="75" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
              <strong><i>My Portfolio</i></strong>
      </a>
@@ -184,7 +184,8 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph:</i></h2>
 
-[![Dalpat Rathore's github activity graph](https://activity-graph.herokuapp.com/graph?username=DalpatRathore&theme=rogue&line=f4791f&point=461220)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dalpat Rathore's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DalpatRathore&theme=rogue&line=f4791f&point=461220)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
@@ -193,14 +194,15 @@
   <tr>
     <td>
       <table border="0">
-      <tr>
+     
+ <tr>
   <td>
      ├─◈ <strong>Twitter</strong>: <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://img.shields.io/badge/@ingenuity_brain-1DA1F2?style=flat&logo=twitter&logoColor=white"></a> 
     
   </td>
    </tr>
-   
-<tr>
+  
+  <tr>
   <td>
     ├─◈ <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
   </td>
