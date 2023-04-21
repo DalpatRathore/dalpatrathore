@@ -237,6 +237,11 @@
       ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=flat&logo=About.me&logoColor=orange"></a> 
   </td>
    </tr>
+  <tr>
+  <td>
+      ├─◈ <strong>Resume</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=flat&logo=About.me&logoColor=orange"></a> 
+  </td>
+   </tr>
        
 </table>
     </td>
@@ -247,4 +252,6 @@
        </td>
    </tr>
   </table>
+  [Download my resume](https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/dalpatrathore.pdf){: download="Resume"}
+
 <!-- <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg"> -->
