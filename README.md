@@ -95,75 +95,20 @@
 </table>
 <br>
 
-<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack:</i></h2>
+<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills Stack & Tech Tools:</i></h2>
 
-<table border="2">
-<tr>
-   <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/html5-3D.png" alt="HTML 5">
-    </td>
-    <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/markdown-3D.png" alt="Markdown">
-    </td>
-   <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/css3-3D.png" alt="CSS 3">
-    </td>
-   <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/sass-3D.png" alt="SASS">
-    </td>
-     
-   
-  
-</tr>
-<tr>
-   <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/javascript-3D.png" alt="JavaScript">
-    </td>
-   <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/reactjs-3D.png" alt="React JS">
-    </td>
-   <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/nextjs-3D.png" alt="Next JS">
-    </td>
-   <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/postman-3D.png" alt="Postman">
-    </td>
-       
-  
-</tr>
-<tr>
-   <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/nodejs-3D.png" alt="Node JS">
-    </td>
-   <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/expressjs-3D.png" alt="Express JS">
-    </td>
-   <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/mongodb-3D.png" alt="Mongo DB">
-    </td>
-   <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/firebase-3D.png" alt="Firebase">
-    </td> 
-</tr>
-<tr>
-   <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/vscode-3D.png" alt="VS Code">
-    </td>
-     <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/git-3D.png" alt="Git">
-    </td>
-     <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/github-3D.png" alt="GitHub">
-    </td>
-     <td align='left' >
-       <img align="center" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/skills-stack/figma-3D.png" alt="FIGMA">
-    </td> 
-  
- 
-</tr>
+![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
+![React JS](https://img.shields.io/badge/React_JS-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white)
+![React Router 6](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
 
 
-</table>
 <br>
 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats:</i></h2>
