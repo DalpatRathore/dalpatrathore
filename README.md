@@ -7,7 +7,7 @@
 
 ```mermaid
   flowchart TB
-    
+
     subgraph Execution
     b1[[Make it Work]]
     b2[[Make it Right]]
@@ -16,7 +16,7 @@
     style b1 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
     style b2 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
     style b3 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
-    
+
     subgraph Strategy
     c1[[Create like an Artist]]
     c2[[Solve like an Engineer]]
@@ -25,8 +25,8 @@
     style c1 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
     style c2 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
     style c3 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
-    
-    
+
+
 ```
 
 <img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/heroImg.webp">
@@ -67,7 +67,7 @@
   </tr>
  
   <tr>
-  
+
 
   <td align='left' >
       <a href="https://gptweatherweb.netlify.app">
@@ -76,11 +76,11 @@
         
    </td> 
  
-  <td align='left'>
+  <!-- <td align='left'>
        <a href="https://cloneapp111.web.app/">
         <img align="center"   width="200" alt="Google Clone"  src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects-stack/googleclone.png" />
                     </a>
-  </td>
+  </td> -->
     
  <td align='left' >
       <a href="https://covid19tracks.web.app/">
@@ -90,7 +90,7 @@
    </td>
    
  </tr>
- 
+
 
 </table>
 <br>
@@ -137,7 +137,6 @@
   </tr>
 </table>
 <br>
-
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph:</i></h2>
 
