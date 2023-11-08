@@ -195,7 +195,7 @@
    </tr>
   <tr>
   <td>
-      ├─◈ <strong>Resume</strong>: <a href="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/dalpatrathore.pdf"> <img align="center" src="https://img.shields.io/badge/DR%20-download-blue?style=flat"></a> 
+      ├─◈ <strong>Resume</strong>: <a href="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/dalpatrathoreCV.pdf"> <img align="center" src="https://img.shields.io/badge/DR%20-download-blue?style=flat"></a> 
   </td>
    </tr>
        
