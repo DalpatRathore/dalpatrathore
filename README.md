@@ -190,7 +190,7 @@
      
   <tr>
   <td>
-      ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=flat&logo=About.me&logoColor=orange"></a> 
+      ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathore.vercel.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=flat&logo=About.me&logoColor=orange"></a> 
   </td>
    </tr>
   <tr>
