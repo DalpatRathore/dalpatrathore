@@ -49,7 +49,7 @@
   <tr>
     
    <td align='left' >
-     <a href="https://dogsdetails.web.app/">
+     <a href="https://dogsweb.netlify.app/">
        <img align="center" width="200" alt="Dogs Web" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects-stack/dogsweb.png" />
              </a>
   </td> 
