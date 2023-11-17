@@ -68,7 +68,6 @@
  
   <tr>
 
-
   <td align='left' >
       <a href="https://gptweatherweb.netlify.app">
         <img align="center"  width="200" alt="CSS Nifty" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects-stack/gptweatherapp.png" />
@@ -90,7 +89,6 @@
    </td>
    
  </tr>
-
 
 </table>
 <br>
