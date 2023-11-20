@@ -201,7 +201,7 @@
     </td>
      <td>
     <table>
-      <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://raw.githubusercontent.com/DalpatRathore/my-metrics/main/metrics.plugin.tweets.svg"></a> 
+      <img align="center" src="https://raw.githubusercontent.com/DalpatRathore/my-metrics/main/metrics.plugin.lines.history.svg">
     </table>
        </td>
    </tr>
