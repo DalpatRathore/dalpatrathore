@@ -68,7 +68,7 @@
  
   <tr>
 
-  <td align='left' >
+  <td align='left' colspan="3" >
       <a href="https://gptweatherweb.netlify.app">
         <img align="center"  width="200" alt="CSS Nifty" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects-stack/gptweatherapp.png" />
              </a>
@@ -81,12 +81,12 @@
                     </a>
   </td> -->
     
- <td align='left' >
+ <!-- <td align='left' >
       <a href="https://covid19tracks.web.app/">
         <img align="center"  width="200" alt="Covid-19 Tracker" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects-stack/covid19tracker.png" />
              </a>
         
-   </td>
+   </td> -->
    
  </tr>
 
