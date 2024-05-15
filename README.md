@@ -163,12 +163,7 @@
   
    </tr>
   
-  <tr>
-  <td>
-      ├─◈ <strong>Dribble</strong>: <a href="https://dribbble.com/dalpatrathore/about"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-EA4C89?style=flat&logo=dribbble&logoColor=white"></a> 
-  </td>
-   </tr>
-
+ 
    <tr>
  <td>
    ├─◈ <strong>Dev</strong>: <a href="https://dev.to/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0A0A0A?style=flat&logo=dev.to&logoColor=white"></a>    
