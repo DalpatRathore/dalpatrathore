@@ -32,66 +32,7 @@
 <img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/heroImg.webp">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dalpatrathore&color=001d3d&style=plastic&label=Github+Profile+Views" alt="Github Profile Views" /> </p>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-<br>
-
-<h2> <img align="top" width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-projects.png" /> <i> Projects Developed & Deployed:</i></h2>
-
-<table border="0">
-  <tr>
-  
-   <td align='center' colspan="3">
-      <a href="https://dalpatrathore.vercel.app">
-          <img align="center" alt="Dalpat Rathore" width="75" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
-             <!-- <strong><i>My Portfolio</i></strong> -->
-     </a>
-   </td>
- </tr>
-  <tr>
-    
-   <td align='left' >
-     <a href="https://dogsweb.netlify.app/">
-       <img align="center" width="200" alt="Dogs Web" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects-stack/dogsweb.png" />
-             </a>
-  </td> 
-   <td align='left'>
-     <a href="https://dailydocket.web.app/">
-        <img align="center"  width="200" alt="Daily Docket" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects-stack/dailydocket.png" />
-                 </a>
-   </td>
-    
-   <td align='left'>
-     <a href="https://react15proj.web.app">
-         <img align="center"  width="200" alt="React JS Projects" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects-stack/reactjsproj.png" />
-                  </a>    
-  </td>    
-  </tr>
- 
-  <tr>
-
-  <td align='left' colspan="3" >
-      <a href="https://gptweatherweb.netlify.app">
-        <img align="center"  width="200" alt="CSS Nifty" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects-stack/gptweatherapp.png" />
-             </a>
-        
-   </td> 
- 
-  <!-- <td align='left'>
-       <a href="https://cloneapp111.web.app/">
-        <img align="center"   width="200" alt="Google Clone"  src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects-stack/googleclone.png" />
-                    </a>
-  </td> -->
-    
- <!-- <td align='left' >
-      <a href="https://covid19tracks.web.app/">
-        <img align="center"  width="200" alt="Covid-19 Tracker" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/projects-stack/covid19tracker.png" />
-             </a>
-        
-   </td> -->
-   
- </tr>
-
-</table>
-<br>
+<be>
 
 <h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills Stack & Tech Tools:</i></h2>
 
@@ -148,6 +89,14 @@
   <tr>
     <td>
       <table border="0">
+       <tr>
+     <td>
+        <a href="https://dalpatrathore.vercel.app">
+          <img align="center" alt="Dalpat Rathore" width="75" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
+             <!-- <strong><i>My Portfolio</i></strong> -->
+     </a>
+     </td>
+   </tr>
      
  <tr>
   <td>
@@ -190,8 +139,9 @@
   <td>
       ├─◈ <strong>Resume</strong>: <a href="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/dalpatrathoreCV.pdf"> <img align="center" src="https://img.shields.io/badge/DR%20-download-blue?style=flat"></a> 
   </td>
+    
    </tr>
-       
+         
 </table>
     </td>
      <td>
