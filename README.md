@@ -89,7 +89,7 @@
   <tr>
     <td>
       <table border="0">
-       <tr>
+    <tr style="text-align: center;">
      <td>
         <a href="https://dalpatrathore.vercel.app">
           <img align="center" alt="Dalpat Rathore" width="75" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
