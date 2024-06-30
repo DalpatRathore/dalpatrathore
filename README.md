@@ -89,14 +89,13 @@
   <tr>
     <td>
       <table border="0">
-   <tr style="text-align: center;">
-  <td style="text-align: center;">
+
+  <p align="center">
     <a href="https://dalpatrathore.vercel.app">
-      <img align="center" alt="Dalpat Rathore" width="75" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" style="display: block; margin: auto;" />
+      <img alt="Dalpat Rathore" width="75" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
     </a>
-  </td>
-</tr>
-     
+  </p>
+      
  <tr>
   <td>
      ├─◈ <strong>Twitter</strong>: <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://img.shields.io/badge/@ingenuity_brain-1DA1F2?style=flat&logo=twitter&logoColor=white"></a> 
