@@ -1,63 +1,84 @@
-<h1><i>Hi there,  I'm  <img align="center" alt="Dalpat Rathore" width="500" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/myname.gif"> </i> </h1>
-<!-- <h1><i>Hi there,  I'm Dalpat Rathore</i></h1> -->
+<p align="left">
+    <a href="https://dalpatrathore.vercel.app">
+      <img alt="Dalpat Rathore" width="75" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
+    </a>
+  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dalpatrathore&color=001d3d&style=plastic&label=Github+Profile+Views" alt="Github Profile Views" /> </p>
+<h1><i>Hi there, I'm Dalpat Rathore</i></h1>
 
-:computer: I'm a self-taught Software Developer & Designer - focuses on crafting clean, user-friendly UI/UX with responsive web design without sacrificing accessibility, performance, and creativity.
-<br/>
-🌱Currently, I’m developing, designing, learning, exploring, and thinking about how to make things better.
+I'm a **Next.js Fullstack Software Engineer** focused on building fast, scalable, and reliable web applications using modern frameworks and clean architecture.
 
-```mermaid
-  flowchart TB
+I enjoy developing fullstack solutions that are user-friendly, accessible, and easy to maintain — from frontend to backend.
 
-    subgraph Execution
-    b1[[Make it Work]]
-    b2[[Make it Right]]
-    b3[[Make it Fast]]
-    end
-    style b1 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
-    style b2 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
-    style b3 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
+Always learning, always building — with a strong attention to detail and a passion for quality.
 
-    subgraph Strategy
-    c1[[Create like an Artist]]
-    c2[[Solve like an Engineer]]
-    c3[[Act like an Entrepreneur]]
-    end
-    style c1 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
-    style c2 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
-    style c3 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
-
-
+#### Development Philosophy
+```text
+1. Performance-First Mindset
+2. Clean, Maintainable Code
+3. Intuitive UX/UI Patterns
+4. Scalable Architecture
+5. Continuous Learning & Improvement
 ```
 
-<img align="center" alt="Programmer" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/heroImg.webp">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dalpatrathore&color=001d3d&style=plastic&label=Github+Profile+Views" alt="Github Profile Views" /> </p>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-<be>
+```mermaid
+flowchart LR
 
-<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills Stack & Tech Tools:</i></h2>
+  %% Mindset to Execution Flow
+  A(Creative mindset) --> B(Problem solving) --> C(Ownership mindset) --> D(Proper execution)
 
-![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
+  %% Strategy Flow
+  E(Strategy) --> F(Create like an Artist) --> G(Solve like an Engineer) --> H(Act like an Entrepreneur)
+
+  %% Execution Flow
+  I(Execution) --> J(Make it Work) --> K(Make it Right) --> L(Make it Fast)
+
+```
+ 
+
+<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills Stack & Dev Tools:</i></h2>
+
+<!-- ─── Front‑End ───────────────────────────────────────────────────────────── -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
-![React JS](https://img.shields.io/badge/React_JS-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white)
-![React Router 6](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-4CC38E?style=plastic)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111111?style=plastic)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=plastic&logo=framer&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=plastic&logo=react&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3B83F6?style=plastic)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![React JS](https://img.shields.io/badge/React_JS-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=plastic&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
 
-![Next JS](https://img.shields.io/badge/Next_JS-black?style=plastic&logo=next.js&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node_JS-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express_JS-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
+<!-- ─── Back‑End & Database ─────────────────────────────────────────────────── -->
+![Node JS](https://img.shields.io/badge/Node_JS-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express_JS-404d59?style=plastic&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=plastic)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+![Apollo Client](https://img.shields.io/badge/Apollo_Client-311C87?style=plastic&logo=apollo-graphql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=plastic)
+![Strapi CMS](https://img.shields.io/badge/Strapi_CMS-8E75FF?style=plastic&logo=strapi&logoColor=white)
+
+<!-- ─── Dev Ops / Utilities ─────────────────────────────────────────────────── -->
+![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
+
+<!-- ─── Collaboration & Misc ────────────────────────────────────────────────── -->
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
 <br>
@@ -83,71 +104,3 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
-
-<table border="1">
-  <tr>
-    <td>
-      <table border="0">
-
-  <p align="center">
-    <a href="https://dalpatrathore.vercel.app">
-      <img alt="Dalpat Rathore" width="75" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
-    </a>
-  </p>
-      
- <tr>
-  <td>
-     ├─◈ <strong>Twitter</strong>: <a href="https://twitter.com/ingenuity_brain"> <img align="center" src="https://img.shields.io/badge/@ingenuity_brain-1DA1F2?style=flat&logo=twitter&logoColor=white"></a> 
-    
-  </td>
-   </tr>
-  
-  <tr>
-  <td>
-    ├─◈ <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
-  </td>
-  
-   </tr>
-  
- 
-   <tr>
- <td>
-   ├─◈ <strong>Dev</strong>: <a href="https://dev.to/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0A0A0A?style=flat&logo=dev.to&logoColor=white"></a>    
-  </td>
-   </tr> 
-<tr>
-  <td>
-      ├─◈ <strong>Hashnode</strong>: <a href="https://hashnode.com/@dalpatrathore"> <img align="center" src="https://img.shields.io/badge/@dalpatrathore-2962FF?style=flat&logo=hashnode&logoColor=white"></a> 
-  </td>
-   </tr>
-    
-  <tr>
-  <td>
-      ├─◈ <strong>Medium</strong>: <a href="https://dalpatrathore.medium.com/"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-12100E?style=flat&logo=medium&logoColor=white"></a> 
-  </td>
-   </tr>
-     
-  <tr>
-  <td>
-      ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathore.vercel.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=flat&logo=About.me&logoColor=orange"></a> 
-  </td>
-   </tr>
-  <tr>
-  <td>
-      ├─◈ <strong>Resume</strong>: <a href="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/dalpatrathoreCV.pdf"> <img align="center" src="https://img.shields.io/badge/DR%20-download-blue?style=flat"></a> 
-  </td>
-    
-   </tr>
-         
-</table>
-    </td>
-     <td>
-    <table>
-      <img align="center" src="https://raw.githubusercontent.com/DalpatRathore/my-metrics/main/metrics.plugin.lines.history.svg">
-    </table>
-       </td>
-   </tr>
-  </table>
-  
-<!-- <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg"> -->
