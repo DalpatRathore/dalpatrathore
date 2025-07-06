@@ -34,8 +34,6 @@ flowchart LR
   I(Execution) --> J(Make it Work) --> K(Make it Right) --> L(Make it Fast)
 
 ```
- 
-
 <h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills Stack & Dev Tools:</i></h2>
 
 <!-- ─── Front‑End ───────────────────────────────────────────────────────────── -->
@@ -81,11 +79,9 @@ flowchart LR
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
-<br>
-
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats:</i></h2>
 
-<table border="1">
+<table border="0">
   <tr>
     <td valign="top"><a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=DalpatRathore&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Dalpat Rathore's GitHub stats"/></td> </a>
     <td valign="top"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalpatRathore&layout=compact&langs_count=10&hide_border=true" alt ="Top Languages"/></td>
@@ -96,7 +92,6 @@ flowchart LR
     
   </tr>
 </table>
-<br>
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph:</i></h2>
 
