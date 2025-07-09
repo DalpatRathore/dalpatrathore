@@ -1,9 +1,4 @@
-<p align="left">
-    <a href="https://dalpatrathore.vercel.app">
-      <img alt="Dalpat Rathore" width="75" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
-    </a>
-  </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dalpatrathore&color=001d3d&style=plastic&label=Github+Profile+Views" alt="Github Profile Views" /> </p>
+
 <h1><i>Hi there, I'm Dalpat Rathore</i></h1>
 
 I'm a **Next.js Fullstack Software Engineer** focused on building fast, scalable, and reliable web applications using modern frameworks and clean architecture.
@@ -12,13 +7,48 @@ I enjoy developing fullstack solutions that are user-friendly, accessible, and e
 
 Always learning, always building — with a strong attention to detail and a passion for quality.
 
-#### Development Philosophy
-```text
-1. Performance-First Mindset
-2. Clean, Maintainable Code
-3. Intuitive UX/UI Patterns
-4. Scalable Architecture
-5. Continuous Learning & Improvement
+<p align="left">
+    <a href="https://dalpatrathore.vercel.app">
+      <img alt="Dalpat Rathore" width="75" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
+    </a>
+  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dalpatrathore&color=001d3d&style=plastic&label=Github+Profile+Views" alt="Github Profile Views" /> </p>
+
+```mermaid
+---
+title: "Development Philosophy Flow"
+---
+gitGraph
+    commit id: "Base: Growth Mindset"
+    branch Performance
+    checkout Performance
+    commit id: "Performance-First Mindset"
+    checkout main
+    merge Performance
+
+    branch Code
+    checkout Code
+    commit id: "Code, Maintainable Code"
+    checkout main
+    merge Code
+
+    branch ux
+    checkout ux
+    commit id: "Intuitive UX/UI Patterns"
+    checkout main
+    merge ux
+
+    branch Scalable
+    checkout Scalable
+    commit id: "Scalable Architecture"
+    checkout main
+    merge Scalable
+
+    branch Learning
+    checkout Learning
+    commit id: "Continuous Learning"
+    checkout main
+    merge Learning
 ```
 
 ```mermaid
